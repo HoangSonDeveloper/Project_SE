@@ -5,7 +5,7 @@ function App() {
 <<<<<<< HEAD
   return <div className="App">
     //adadadadada
-    console.log('Hello Son! Last time')
+    console.log('Hello Son! Last time Cho Son')
   </div>;
 =======
   return <div className="App">Hello</div>;
