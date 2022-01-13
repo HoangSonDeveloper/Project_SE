@@ -8,7 +8,7 @@ const productSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    manufactorer:{
+    manufacturer:{
         type: String,
         required: true
     },

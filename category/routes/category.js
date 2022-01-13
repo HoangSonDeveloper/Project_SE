@@ -13,9 +13,17 @@ router.get('/', async (req, res) =>{
     }
 })
 
-// router.get('/:id', (req, res) =>{
-//     res.send(req.params.id)
-// })
+//GET 1 CATEGORY
+router.get("/find/:id", async (req, res) => {
+    try {
+      const category = await Category.findById(req.params.id)
+      res.status(200).json(category)
+    } catch (err) {
+        res.status(500).json({
+            message: err.message
+        })
+    }
+})
 
 // router.post('/', (req, res) =>{
 
