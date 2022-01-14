@@ -38,4 +38,5 @@ app.use("/checkout", stripeRoute);
 // app.listen(process.env.PORT || 3000, () => {
 //   console.log("Backend server is running!");
 // });
-app.listen(3000, () => console.log('Server started'))
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log('Server started'))
