@@ -2,7 +2,7 @@ GET http://localhost:3000/products
 
 ###
 
-GET http://localhost:3000/products/find/61dd1c15176c2b6e84ff9965
+GET http://localhost:3000/products/find/61dd1c15176c2b6e84ff995d
 
 
 ###
@@ -26,34 +26,16 @@ Content-Type: application/json
 }
 
 ###
-PUT http://localhost:3000/products/61e1a585f90b07a1d215745b
-Content-Type: application/json
-
-{
-    "manufacturer": "Việt"
-}
-
-###
-DELETE http://localhost:3000/products/61e1a585f90b07a1d215745b
-
-###
 GET http://localhost:3000/users
-
-###
-GET http://localhost:3000/users/find/61e193b5ffaac607940ec32b
-
-###
-DELETE http://localhost:3000/users/61e193fd0eb1c5b015e186f4
-
 
 ###
 POST http://localhost:3000/auth/register
 Content-Type: application/json
 
 {
-    "username": "Thang",
-    "email": "123@gmail.com",
-    "password": "321456"
+    "username": "admins",
+    "email": "admins@gmail.com",
+    "password": "1234"
 }
 
 ###
@@ -65,8 +47,3 @@ Content-Type: application/json
     "password": "Nguyen1234"
 }
 
-###
-GET http://localhost:3000/categor
-
-###
-GET http://localhost:3000/category/find/61d0aa9377dbbd115262de14
