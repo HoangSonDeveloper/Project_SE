@@ -1,5 +1,4 @@
-const { Int32 } = require('bson')
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
 
 const categorySchema = new mongoose.Schema({
     category_id:{
@@ -18,6 +17,6 @@ const categorySchema = new mongoose.Schema({
         type: String,
         required: true
     }
-})
+});
 
-module.exports = mongoose.model('Category', categorySchema)
+module.exports = mongoose.model('Category', categorySchema);
