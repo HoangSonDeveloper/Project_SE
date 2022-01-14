@@ -1,0 +1,72 @@
+GET http://localhost:3000/products
+
+###
+
+GET http://localhost:3000/products/find/61dd1c15176c2b6e84ff9965
+
+
+###
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "product_id": 102,
+    "name": "Cream đặc có đường Ngôi Sao Phương Nam xanh 1284g",
+    "manufacturer": "Việt Nam",
+    "price": 65500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+        {
+            "name": "Sữa & Bơ",
+                    "id": 105
+        }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/77/58/77/2c440de194f64ba22626d41eb756387b.png.webp"
+}
+
+###
+PUT http://localhost:3000/products/61e1a585f90b07a1d215745b
+Content-Type: application/json
+
+{
+    "manufacturer": "Việt"
+}
+
+###
+DELETE http://localhost:3000/products/61e1a585f90b07a1d215745b
+
+###
+GET http://localhost:3000/users
+
+###
+GET http://localhost:3000/users/find/61e193b5ffaac607940ec32b
+
+###
+DELETE http://localhost:3000/users/61e193fd0eb1c5b015e186f4
+
+
+###
+POST http://localhost:3000/auth/register
+Content-Type: application/json
+
+{
+    "username": "Thang",
+    "email": "123@gmail.com",
+    "password": "321456"
+}
+
+###
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+    "username": "Nguyen123",
+    "password": "Nguyen1234"
+}
+
+###
+GET http://localhost:3000/categor
+
+###
+GET http://localhost:3000/category/find/61d0aa9377dbbd115262de14
