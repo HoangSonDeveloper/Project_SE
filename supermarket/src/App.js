@@ -1,15 +1,31 @@
-import logo from "./logo.svg";
 import "./App.css";
+import LoginScreen from "./component/LoginScreen";
+import RegisterScreen from "./component/RegisterScreen";
+import ResetPassScreen from "./component/ResetPassScreen";
+// import CategoryDetail from "./component/CategoryDetail";
+// import Categories from "./component/Categories";
+import Main from "./component/Main";
+// import NavBar from "./component/Main/NavBar";
+// import Footer from "./component/Main/Footer";
+import { Route, Routes } from "react-router-dom";
+import React from "react";
+
+const userContext = React.createContext();
 
 function App() {
-<<<<<<< HEAD
-  return <div className="App">
-    //adadadadada
-    console.log('Hello Son! Last time Cho Son')
-  </div>;
-=======
-  return <div className="App">Hello</div>;
->>>>>>> 6192c1451103c74d797dc558a7df5837780ace3a
+  return (
+    <userContext.Provider value={{ login: false }}>
+      <div className="App">
+        <Routes>
+          <Route path="/login" element={<LoginScreen />} />
+          <Route path="/register" element={<RegisterScreen />} />
+          <Route path="/forgot-password" element={<ResetPassScreen />} />
+          {/* <Route path="/cart" element={<RegisterScreen />} /> */}
+          <Route exact path="/" element={<Main />} />
+        </Routes>
+      </div>
+    </userContext.Provider>
+  );
 }
 
 export default App;
