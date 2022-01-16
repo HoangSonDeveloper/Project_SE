@@ -16,7 +16,7 @@ const Product = ({ products, pagination, onMoreButtonClick }) => {
       </div>
       <div className="product-container grid-6">
         {filteredProducts.map((p) => (
-          <ProductCard key={p.id} product={p} />
+          <ProductCard key={p._id} product={p} />
         ))}
       </div>
 

@@ -1,0 +1,39 @@
+
+    [
+        {
+            "category_id": 101, "name": "Điện tử", "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80"
+        },
+        {
+            "category_id": 102, "name": "Điện thoại", "image": "https://images.unsplash.com/photo-1535240073203-05bc5d7f1113?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+        },
+        {
+            "category_id": 103, "name": "Sức khoẻ & làm đẹp", "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "category_id": 104, "name": "Gia dụng", "image": "https://images.unsplash.com/photo-1556912173-46c336c7fd55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        },
+        {
+            "category_id": 105, "name": "Sữa & bơ", "image": "https://images.unsplash.com/photo-1609246280917-339404083c49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        },
+        {
+            "category_id": 106, "name": "Bánh", "image": "https://images.unsplash.com/photo-1614735241165-6756e1df61ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
+        },
+        {
+            "category_id": 107, "name": "Dầu ăn & gia vị", "image": "https://images.unsplash.com/photo-1606914469633-bd39206ea739?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+        },
+        {
+            "category_id": 108, "name": "Mật ong & nước tăng lực", "image": "https://images.unsplash.com/photo-1580859297753-0b52fa0fc46e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80"
+        },
+        {
+            "category_id": 109, "name": "Kẹo", "image": "https://images.unsplash.com/photo-1588756264692-d396bca41fb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+        },
+        {
+            "category_id": 110, "name": "Chocolate", "image": "https://images.unsplash.com/photo-1610450949065-1f2841536c88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        },
+        {
+            "category_id": 111, "name": "Tương", "image": "https://images.unsplash.com/photo-1607688719755-7a7d78d26ca9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=948&q=80"
+        },
+        {
+            "category_id": 112, "name": "Trà & cà phê", "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=842&q=80"
+        }
+    ]

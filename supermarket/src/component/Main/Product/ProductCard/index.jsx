@@ -9,11 +9,11 @@ const ProductCard = ({ product }) => {
     <div className="product-card">
       <img
         className="product-card-img"
-        src={product.img}
+        src={product.image}
         alt="product-thumbnail"
       />
       <div className="product-card-content">
-        <div className="product-card-title">{product.title}</div>
+        <div className="product-card-title">{product.name}</div>
         <div style={promoStyle(product.promo)} className="product-card-promo">
           {`Giảm ${product.promo}%`}
         </div>

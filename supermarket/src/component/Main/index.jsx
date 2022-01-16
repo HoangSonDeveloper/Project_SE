@@ -16,9 +16,7 @@ class Main extends Component {
 
   async getCategories() {
     try {
-      const { data } = await axios.get(
-        "https://617c2cb7d842cf001711c290.mockapi.io/Categories"
-      );
+      const { data } = await axios.get("https://localhost:3000/category");
       this.setState({ categories: data });
     } catch (error) {
       console.log(error);
@@ -26,10 +24,7 @@ class Main extends Component {
   }
   async getProducts() {
     try {
-      const { data } = await axios.get(
-        "https://617c2cb7d842cf001711c290.mockapi.io/Product"
-      );
-
+      const { data } = await axios.get("https://localhost:3000/products");
       this.setState({ products: data });
     } catch (error) {
       console.log(error);
