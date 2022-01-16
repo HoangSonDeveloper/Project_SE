@@ -2,11 +2,15 @@ GET http://localhost:3000/products
 
 ###
 
+GET http://localhost:3000/products/find/61dd1c15176c2b6e84ff99c0
+
+
+###
 POST http://localhost:3000/products
 Content-Type: application/json
 
 {
-    "product_id": 101,
+    "product_id": 102,
     "name": "Cream đặc có đường Ngôi Sao Phương Nam xanh 1284g",
     "manufacturer": "Việt Nam",
     "price": 65500,
@@ -22,14 +26,24 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3000/products/61dfce841179c603b07b8156
-###
-GET http://localhost:3000/products/find/61dfce841179c603b07b8156
+GET http://localhost:3000/users
 
 ###
-PATCH http://localhost:3000/products/61dfce841179c603b07b8156
+POST http://localhost:3000/auth/register
 Content-Type: application/json
 
 {
-    "name": "Hadilao"
+    "username": "admins",
+    "email": "admins@gmail.com",
+    "password": "1234"
 }
+
+###
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+    "username": "Nguyen123",
+    "password": "Nguyen1234"
+}
+
