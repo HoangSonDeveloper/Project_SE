@@ -22,12 +22,12 @@ const Categories = ({ categories, history }) => {
     <div className="categories-container">
       <Slider {...settings}>
         {categories.map((cate) => (
-          <div key={cate.id}>
-            <Link to={`/Categories/${cate.id}/Product`}>
+          <div key={cate._id}>
+            <Link to={`/Categories/${cate._id}/Product`}>
               <CategoryCard
                 onClick={handleCardClicked}
-                title={cate.title}
-                img={cate.img}
+                title={cate.name}
+                img={cate.image}
               />
             </Link>
           </div>
