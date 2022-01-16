@@ -1,0 +1,35 @@
+GET http://localhost:3000/products
+
+###
+
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "product_id": 101,
+    "name": "Cream đặc có đường Ngôi Sao Phương Nam xanh 1284g",
+    "manufacturer": "Việt Nam",
+    "price": 65500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+        {
+            "name": "Sữa & Bơ",
+                    "id": 105
+        }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/77/58/77/2c440de194f64ba22626d41eb756387b.png.webp"
+}
+
+###
+DELETE http://localhost:3000/products/61dfce841179c603b07b8156
+###
+GET http://localhost:3000/products/find/61dfce841179c603b07b8156
+
+###
+PATCH http://localhost:3000/products/61dfce841179c603b07b8156
+Content-Type: application/json
+
+{
+    "name": "Hadilao"
+}
