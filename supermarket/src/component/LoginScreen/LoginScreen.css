@@ -1,0 +1,94 @@
+@import "../../index.css";
+
+p,
+a {
+  color: var(--secondary-color);
+}
+
+.main {
+  background-color: var(--primary-color);
+  padding: 20px;
+  height: 100vh;
+  margin: 0;
+}
+
+.header-white {
+  color: white;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-group {
+  width: 70%;
+  padding-right: 0 !important;
+}
+
+.logo {
+  max-width: 363px;
+  max-height: 363px;
+  border: 4px solid white;
+  width: 25vw;
+}
+
+.login-btn {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  width: 10rem;
+  margin-bottom: 12px;
+}
+
+.login-btn:hover {
+  transform: scale(1.1);
+  transition: all 0.35s;
+}
+
+.header {
+  color: var(--secondary-color);
+  margin-bottom: 32px;
+}
+
+.google-btn {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+
+.forgot-text {
+  color: var(--secondary-color);
+  margin-bottom: 8px;
+}
+
+.register-text {
+  color: var(--secondary-color);
+  font-weight: bold;
+}
+
+.input {
+  border-radius: 12px;
+  margin-bottom: 12px;
+  border: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.policy-text {
+  font-size: 14px;
+}

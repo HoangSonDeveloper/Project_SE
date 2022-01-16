@@ -1,0 +1,33 @@
+@import "../../index.css";
+
+.main {
+  height: 100vh;
+  background-color: var(--primary-color);
+}
+
+.input-email {
+  width: 60%;
+  height: 46px;
+  border-radius: 12px;
+  border: none;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+}
+
+.submit-btn {
+  background-color: var(--secondary-color);
+  color: white;
+  width: 8rem;
+  padding: 8px 0;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
+
+.submit-btn:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+
+.input-email:focus {
+  outline: none;
+}
