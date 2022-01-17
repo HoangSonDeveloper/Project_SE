@@ -379,3 +379,133 @@ ul {
         }
     }
 }
+
+/*product detail*/
+.product-detail {
+    &-container {
+        display: flex;
+        max-width: 1170px;
+        margin: 40px auto;
+        border: 1px solid #ccc;
+    }
+    &-img {
+        width: 300px;
+        height: 300px;
+        margin: 20px;
+    }
+    &-price {
+        display: flex;
+        flex-direction: column;
+        &-text {
+            font-size: 24px;
+            color: var(--primary-color);
+        }
+        &-sign {
+            font-size: 16px;
+        }
+    }
+    &-info {
+        text-align: start;
+    }
+    &-name {
+        margin: 16px 0;
+    }
+    &-description {
+        display: flex;
+        flex-direction: column;
+        max-width: 1170px;
+        border: 1px solid #ccc;
+        margin: 0 auto 40px;
+        text-align: start;
+        padding: 24px;
+    }
+    &-manu {
+        &-info {
+            display: flex;
+            &-cate {
+                margin-right: 24px;
+            }
+        }
+        &-title {
+            color: var(--primary-color);
+            text-transform: uppercase;
+        }
+    }
+    &-title {
+        font-weight: bold;
+    }
+    &-quantity {
+        display: flex;
+    }
+    &-button {
+        margin-top: 24px;
+        margin-bottom: 24px;
+        &-buy {
+            border: none;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 12px;
+        }
+        &-add {
+            border: 2px solid var(--primary-color);
+            background-color: white;
+            color: var(--primary-color);
+            padding: 10px 12px;
+            margin-left: 12px;
+        }
+    }
+    &-shipment {
+        display: flex;
+        align-items: center;
+        height: 50px;
+        margin-bottom: 16px;
+        &-logo {
+            height: 50px;
+            width: 50px;
+        }
+        &-title {
+            display: flex;
+            margin: 0 12px 0;
+            height: 50px;
+            align-items: center;
+        }
+        &-freeship {
+            margin: 0;
+            color: var(--primary-color);
+            font-style: italic;
+        }
+        &-text {
+            margin-bottom: 0;
+            margin-left: 4px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    }
+}
+
+/*counter*/
+.counter {
+    border-radius: 4px;
+    max-width: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 12px;
+    &-btn {
+        border: 1px solid #ddd;
+        width: 20px;
+        background-color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &-number {
+        border: 1px solid #ddd;
+        padding: 0 8px;
+        font-size: 14px;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

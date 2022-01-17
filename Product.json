@@ -1,1503 +1,1502 @@
-
-     [
-        {
-            "product_id": 1,
-            "name": "Máy giặt Samsung Inverter 8 kg WW80T3020WW",
-            "manufactorer": "Hàn Quốc",
-            "price": 4949000,
-            "description": "Tận hưởng khả năng giặt giũ tiện lợi trên máy giặt Samsung. Màn hình LED rộng lớn hiển thị rõ ràng và cho phép người dùng dễ dàng đọc các chỉ số. Bạn có thể kiểm tra nhanh chóng tình trạng giặt giũ, cài đặt chương trình, xem thời gian còn lại và quy trình giặt. Tối ưu hiệu suất giặt quần áo và chăm sóc sợi vải bền lâu với 14 chương trình giặt được tích hợp sẵn trong máy.",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/66/a8/13/2e2080910aeb92c72509551b7dd9369e.jpg.webp"
-        },
-        {
-            "product_id": 2,
-            "name": "Máy Nước Nóng Trực Tiếp Ariston AURES SMC45E-SBS-VN",
-            "manufactorer": "Việt Nam",
-            "price": 2349000,
-            "description": "Máy Nước Nóng Trực Tiếp Ariston AURES SMC45E-SBS-VN sở hữu công nghệ nhiệt độ ổn định nhiệt bất chấp mọi điều kiện lưu lượng và nhiệt độ nước đầu vào. Thiết kế độc đáo và sang trọng được phát triển bởi NTK người Ý nổi tiếng Umberto Palermo. Hệ thống chống bỏng thông minh ngăn cho máy không hoạt động khi nhiệt độ nước đầu vào vượt quá mức nhiệt độ cài đặt. Cầu giao chống giật ELCB với chức năng tự động kiểm tra (Auto test)",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/9c/2d/66/3652b65155044765e808862dbb321da3.jpg.webp"
-        },
-        {
-            "product_id": 3,
-            "name": "Tủ Lạnh Aqua 130 lít AQR-T150FA-BS",
-            "manufactorer": "Trung Quốc",
-            "price": 4090000,
-            "description": "Tủ lạnh Aqua sở hữu công nghệ Nano Fresh Ag+ ứng dụng tính chất của các ion Ag+, giúp diệt khuẩn và ngăn ngừa sự phát triển của vi khuẩn nấm mốc, giữ bầu không khí luôn sạch khuẩn và thoáng mát. Với sự hỗ trợ này, chúng ta có thể thoải mái lưu trữ thực phẩm cho gia đình nhiều ngày mà không phải lo đến việc ám mùi",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/52/b6/cb/42ad65ccd1e96c2a28da47cf277cff7a.jpg.webp"
-        },
-        {
-            "product_id": 4,
-            "name": "Máy Lạnh Daikin 1 HP FTF25UV1V",
-            "manufactorer": "Thái Lan",
-            "price": 7620000,
-            "description": "Máy Lạnh Daikin 1 HP FTF25UV1V có thiết kế phẳng, đường nét thiết kế mềm mại giúp bạn vệ sinh bên ngoài máy lạnh một cách dễ dàng, cùng với tông màu trắng tinh tế càng tôn lên sự sang trọng cho căn phòng của bạn. Máy lạnh này có công suất 1 HP phù hợp với những căn phòng có diện tích dưới 15 m2.",
-            "quantity": 20,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e1/77/98/9da5790bfda0d164a4853752dd48c587.jpg.webp"
-        },
-        {
-            "product_id": 5,
-            "name": "Loa Thanh 2.1ch 150W HW-T420/XV",
-            "manufactorer": "Hàn Quốc",
-            "price": 1419000,
-            "description": "Loa siêu trầm tích hợp 6.5 inch, Công nghệ Smart Sound tối ưu âm thanh theo từng cảnh, Tối ưu âm thanh chơi game với chế độ Game Mode.",
-            "quantity": 30,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/23/93/bb/083e9bdb828faa3b0e86cf3889e0537a.jpg.webp"
-        },
-        {
-            "product_id": 6,
-            "name": "Chân để máy giặt",
-            "manufactorer": "Việt Nam",
-            "price": 175000,
-            "description": "Chân đế máy giặt cao cấp được làm khung inox chắc chắn,có thể điều chỉnh được kích thước phù hợp dung tích từng loại máy giặt. 4 thanh nối được làm bằng inox chống gi bền chắc. Chân đế làm băng nhựa cao cấp chông rung lắc khi máy giặt,tủ lạnh hoạt đông.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/ef/0b/57/d75e68f56f13482d5b2e1fda57cdadc1.jpg.webp"
-        },
-        {
-            "product_id": 7,
-            "name": "Kệ kê tủ lạnh , chân máy giặt chống rung lắc kich thước thay đổi",
-            "manufactorer": "OEM",
-            "price": 69120,
-            "description": "Kệ kê tủ lạnh , chân máy giặt chống rung lắc kich thước thay đổi bảo vệ máy giặt, tủ lạnh không bị dính nước, chống ẩm. Giúp đồ dùng không bị han gỉ, chạy êm, tăng tuổi thọ. Kệ có thể thay đổi được cả chiều dài và chiều rộng tùy chỉnh theo kích thước máy giặt, tủ lạnh.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1d/dc/38/1d2299b1e99ecd092b21f79e0bb6374e.jpg.webp"
-        },
-        {
-            "product_id": 8,
-            "name": "Smart Tivi QLED Samsung 4K 43 inch QA43Q60A Mới 2021",
-            "manufactorer": "Hàn Quốc",
-            "price": 14020000,
-            "description": "Smart Tivi QLED Samsung 4K 43 inch QA43Q60A mang đến phong cách thiết kế vượt bậc Airslim với độ mỏng ấn tượng thu hút mọi ánh nhìn mở rộng không gian màn hình hiển thị cho phép người dùng trải nghiệm những hình ảnh sống động, sắc nét hơn, nâng tầm không gian sống hiện đại cho ngôi nhà của bạn. ",
-            "quantity": 20,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d8/4d/91/bce547f5c13f91c7d3d8b0ede55973f0.jpg.webp"
-        },
-        {
-            "product_id": 9,
-            "name": "Tủ Lạnh Mini Dung Tích 8L Làm Mát 0 Độ Làm Nóng 65 Độ Dễ Dàng Mang Đi Du Lịch, Picnic Hàng Chính Hãng Baseus",
-            "manufactorer": "Trung Quốc",
-            "price": 1890000,
-            "description": "Nhiệt độ làm mát lên tới 0 độ C có thể dùng để bảo quản mỹ phẩm rất tốt, Chuyên gia khóa tươi toàn diện, chức năng sưởi ấm và làm mát. Có thể đặt trái cây, đồ uống, bento, sữa chua, tinh chất và mặt nạ trong đó.",
-            "quantity": 30,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f5/cd/a1/dd228adc071b9cce3964a2258c3deb80.jpg.webp"
-        },
-        {
-            "product_id": 10,
-            "name": "Tủ ướp, bảo quản rượu vang thương hiệu Homesun, Model: BCW-70A, Thể tích 70L(Chứa được 28 chai)",
-            "manufactorer": "Trung Quốc",
-            "price": 10700000,
-            "description": " Rượu vang là một thức uống có lịch sử ra đời hàng nghìn năm TCN. Nó không phải là một thức uống bình thường, đối với những người có đam mê và hiểu biết về vang thì nó được coi là một báu vật. Vì vậy việc bảo quản tốt để mùi vị và chất lượng của vang luôn được đảm bảo là điều rất quan trọng đối với mỗi người sử dụng vang. Để giải quyết các vấn để đó Homesun đã phát triển và cho ra đời dòng sản phẩm TỦ BẢO QUẢN RƯỢU BCW-70A.",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Điện tử",
-                    "id": 101
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cd/1d/66/08f6e1fa7203c0ddb36b2eae0141903f.jpg.webp"
-        },
-        {
-            "product_id": 11,
-            "name": "Điện Thoại iPhone 13 Pro Max 256GB",
-            "manufactorer": "Mỹ",
-            "price": 37990000,
-            "description": "iPhone 13 sở hữu hệ thống camera kép xuất sắc nhất từ trước đến nay, bộ vi xử lý Apple A15 nhanh nhất thế giới smartphone cùng thời lượng pin cực khủng, sẵn sàng đồng hành cùng bạn suốt cả ngày.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/3d/81/c8/f36fd25e2640244f3b8d7102c337fda6.jpg.webp"
-        },
-        {
-            "product_id": 12,
-            "name": "Điện Thoại Samsung Galaxy M12 (4GB/64GB)",
-            "manufactorer": "Hàn Quốc",
-            "price": 3709000,
-            "description": "Điện Thoại Samsung Galaxy M12 (4GB/64GB) thoải mái trải nghiệm nhiều nội dung hơn với màn hình tràn viền vô cực Infinity-V 6,5 inch trên mãnh thú Galaxy M12.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/38/0f/76/3377a65a5e426e395b9984e275886353.jpg.webp"
-        },
-        {
-            "product_id": 13,
-            "name": "Máy tính bảng Masstel Tab 8.1 (3GB/32GB) - Hàng chính hãng - Đã kích hoạt bảo hành điện tử",
-            "manufactorer": "Việt Nam",
-            "price": 2690000,
-            "description": "Đến từ thương hiệu Việt Nam và là một trong những mẫu máy tính bảng có giá thành rẻ nhất thị trường, chiếc máy tính bảng Masstel Tab 8.1 4G cho thấy hàng loạt ưu điểm nổi trội khi sở hữu cấu hình vượt trội phân khúc, hỗ trợ đầy đủ các băng tần 2G/3G/4G, chạy hệ điều hành Android 11 mượt mà và sở hữu màn hình IPS trung thực.",
-            "quantity": 60,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/57/21/24/2f15f7232cc020c7899c68e7f45e5bda.jpg.webp"
-        },
-        {
-            "product_id": 14,
-            "name": "Điện Thoại Samsung Galaxy M62 (8GB/256GB)",
-            "manufactorer": "Hàn Quốc",
-            "price": 8659000,
-            "description": "Điện Thoại Samsung Galaxy M62 có thiết kế tinh giản với vân sọc 3D hiện đại đầy lôi cuốn của Galaxy M62 với 3 gam màu độc đáo Đen, Xanh Ngọc và Xanh Dương. Thân máy được tinh chỉnh tỉ mỉ với đường cong mềm mại, cho phép cầm nắm và sử dụng điện thoại dễ dàng trong thời gian dài.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/2b/64/ac148eee30c9c34e5eb57e428675baad.jpg.webp"
-        },
-        {
-            "product_id": 15,
-            "name": "Điện thoại Xiaomi Redmi 9A (2GB/32GB)",
-            "manufactorer": "Trung Quốc",
-            "price": 2410000,
-            "description": "Dù thuộc phân khúc giá rẻ nhưng Điện thoại Xiaomi Redmi 9A lại sở hữu một màn hình tràn viền kích thước cực lớn 6.53 inch với thiết kế theo kiểu giọt nước quen thuộc, đi theo xu hướng chung của những mẫu smartphone hiện nay.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0c/cd/34/0b6abf38aaba0a3507c7c2610a15dc9f.jpg.webp"
-        },
-        {
-            "product_id": 16,
-            "name": "Máy tính bảng Fire HD10 2021 - 11th - (All New Fire HD10 - 2021) - Ram 3/4GB, bộ nhớ 32GB, màn hình 1080 FullHD",
-            "manufactorer": "Mỹ",
-            "price": 3380000,
-            "description": "ALL NEW Fire HD10 2021 (11th) là dòng sản phẩm đánh vào phân khúc giá rẻ của máy tính bảng. Mục đích ban đầu của nhà sản xuất là bù đắp cho sự thiếu hụt của máy đọc sách công nghệ Eink ở tính năng đọc PDF. Sau này trở thành dòng sản phẩm riêng biệt nhắm vào nhu cầu giải trí phim ảnh trong hệ sinh thái sáng tạo.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/35/70/14/88312e6ac50973c738781553d0a20405.jpg.webp"
-        },
-        {
-            "product_id": 17,
-            "name": "Điện Thoại Samsung Galaxy Note 20 Ultra (8GB/256GB)",
-            "manufactorer": "Hàn Quốc",
-            "price": 24134000,
-            "description": "Đã từ lâu, sự kết hợp giữa Note và S Pen thông minh định hình nên một thế hệ siêu phẩm, đầy quyền năng, ngay trong tay bạn. Với hiệu năng đáng kinh ngạc như máy tính, khả năng chỉnh sửa, quay video 8K chuyên nghiệp và định chuẩn trải nghiệm vượt trội dành cho game di động, siêu phẩm Note mới hứa hẹn mang đến những đột phá khác biệt, hoàn hảo dù bạn giải trí hay làm việc. Đây là thế hệ smartphone đổi mới toàn diện cách bạn làm việc và giải trí.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/92/1c/2d/3522748350d119855e054062c007f7c1.jpg.webp"
-        },
-        {
-            "product_id": 18,
-            "name": "Điện thoại Xiaomi POCO X3 PRO",
-            "manufactorer": "Trung Quốc",
-            "price": 5190000,
-            "description": "Ra mắt nổi bật với thiết kế khá độc đáo với cụm camera, màn hình mượt mà như lụa, pin khủng, sạc cực nhanh và loa chất lượng phòng thu hứa hẹn sẽ mang lại trải nghiệm người dùng ấn tượng. Thiết kế hiện đạ",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/04/07/65/ef713f1c63c80511dc14fdcf92c886be.jpg.webp"
-        },
-        {
-            "product_id": 19,
-            "name": "ĐIỆN THOẠI TÂN CỔ ĐIỂN DT4 bàn phím quay",
-            "manufactorer": "Hong Kong",
-            "price": 2100000,
-            "description": "Điện thoại dùng lắp như điện thoại bàn cho khách hàng lựa chọn. Hộp đóng mở bàn phím gọn gàng, chuông thanh bàn phím quay, nghe gọi rõ ràng. Kiểu Dáng cổ điển sang trong phù hợp nhà Lâu Đài, Biệt thự, Liền kề, Chung cư cao cấp. Thích hợp làm quà tặng Sếp,Tân gia nhà mới, trang trí quán cafe, nhà hàng, khách sạn, studio, phim trường. Sản phẩm không thể thiếu đối với những ai đam mê phong cách Vintage cổ điển",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d5/3d/05/63247352b91a136c15cfd77dcf7cc686.JPG.webp"
-        },
-        {
-            "product_id": 20,
-            "name": "Điện Thoại Nokia 105 Dual Sim (2019)",
-            "manufactorer": "Việt Nam",
-            "price": 379000,
-            "description": "Điện Thoại Nokia 105 Dual Sim (2019) có thiết kế hiện đại với các đường bo tròn độc đáo cho bạn dễ dàng cầm giữ cũng như bỏ máy vào túi. Kiểu dáng thanh lịch, cá tính và năng động cho giới trẻ. Đặc biệt hơn với nhiều màu sắc bắt mắt cho bạn dễ dàng lựa chọn theo sở thích. Chiếc điện thoại Nokia này có thể cho vào túi quần hay túi áo mà bạn sẽ không cảm thấy khó chịu vì nó. Đặc biệt độ hoàn thiện của những chiếc máy Nokia luôn được người dùng đáng giá rất cao và bạn sẽ không cần phải lo lắng vì có lỡ làm đánh rơi máy.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c4/06/23/9991ec95117ea17f4c3174ff58747524.jpg.webp"
-        },
-        {
-            "product_id": 21,
-            "name": "Điện Thoại iPhone 11 64GB",
-            "manufactorer": "Mỹ",
-            "price": 14590000,
-            "description": "Điện Thoại iPhone 11 là sản phẩm kế nhiệm cho chiếc iPhone Xr từng dành được sự chú ý của giới công nghệ. Lần này, Apple vẫn đi theo những tiêu chỉ của Xr khi tạo ra iPhone 11. Đầu tiên là thiết kế trẻ trung có thể thấy được ngay trên sự đa dạng màu sắc. Hơn nhữa, những màu của iPhone 11 đều mang xu hướng phá cách, tinh nghịch. Nhưng đồng thời, màu sắc này cũng mang trong nó một sự sang trọng nhất định.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5b/b2/c4/9574b9439edac59ab025881b9e62fc18.jpg.webp"
-        },
-        {
-            "product_id": 22,
-            "name": "Điện Thoại Samsung Galaxy Z Fold 3 (256GB)",
-            "manufactorer": "Hàn Quốc",
-            "price": 40639000,
-            "description": "Sẵn sàng mở ra tiềm năng công nghệ mới. Không dừng lại ở một chiếc điện thoại thông minh cao cấp, mà nó còn bền bỉ và kết nối siêu tốc với 5G. Kế đến là màn hình tràn viền lớn với trải nghiệm gập mở độc nhất để bạn có thể giải trí và làm việc ở một cách hoàn hảo.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d0/5f/dc/0ca1b78f3b9a5bd6e2f7947d281e4f86.jpg.webp"
-        },
-        {
-            "product_id": 23,
-            "name": "Điện Thoại Bàn Homephone lắp sim",
-            "manufactorer": "Trung Quốc",
-            "price": 616000,
-            "description": "Điện thoại đa dụng với nhiều chức năng khác nhau: Quản lý hỗ trợ các cuộc gọi đồng thời đa dạng nhạc chuông và cài đặt âm lượng",
-            "quantity": 30,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4c/df/7d/b76a5733e59bbee16e6c4ba773259af2.jpg.webp"
-        },
-        {
-            "product_id": 24,
-            "name": "Điện Thoại iPhone 12 128GB",
-            "manufactorer": "Mỹ",
-            "price": 21560000,
-            "description": "Apple đã quyết định giữ nguyên thiết kế notch tai thỏ quen thuộc cho màn hình iPhone 12, nhưng phần notch đã được tinh giản nhỏ gọn lại nhằm tạo thêm tỷ lệ hiển thị hình ảnh trên màn hình. Về kích thước, màn hình của máy rộng 6.1 inch, độ phân giải 2532x 1170pixels.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e1/66/c2/47859ea06eb4b00ad41bbe81636e4373.jpg.webp"
-        },
-        {
-            "product_id": 25,
-            "name": "Điện thoại Nokia 110 4G",
-            "manufactorer": "Ba Lan",
-            "price": 739000,
-            "description": "Nokia chính thức trình làng chiếc điện thoại Nokia 110 4G phiên bản nâng cấp của Nokia 110 2019 có điểm nhấn chính là công nghệ kết nối Internet 4G thỏa thích trải nghiệm mọi lúc, mọi nơi cùng với một thiết kế vô cùng mới mẻ và sang trọng. Thiết kế sang trọng, bền bỉ",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Điện thoại",
-                    "id": 102
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5c/99/f2/aec789eb283be95b844dbb25a1bbdd66.png.webp"
-        },
-        {
-            "product_id": 26,
-            "name": "Máy Massage Cá Heo Thư Giãn",
-            "manufactorer": "OEM",
-            "price": 195000,
-            "description": "Massage là biện pháp tốt nhất giúp các huyệt đạo trên cơ thể được lưu thông, tuần hoàn máu trong cơ thể, giảm nhức mỏi và hỗ trợ chữa được một số bệnh. Nhất là với những người có môi trường làm việc ít vận động hay vận động quá mức đều dễ dẫn đến việc đau nhức cơ thể liên tục.",
-            "quantity": 20,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bc/9a/16/e21df65119611037f33d0ab1bee5d11a.jpg.webp"
-        },
-        {
-            "product_id": 27,
-            "name": "Tông Đơ Cắt Tóc Gia Đình JC 0817 Đa Năng",
-            "manufactorer": "OEM",
-            "price": 214000,
-            "description": "Tính năng nổi bật của sản phẩm sản phẩm tông đơ cắt tóc gia đình JC 0817: Tông đơ có thiết kế nhỏ nhắn với 2 tông màu sáng phối rất hài hòa và hợp lý giúp phân biệt rõ ràng giữa các phần chức năng trên thân máy. Kết cấu máy được bố trí rất khoa học với phần công tắc điều chỉnh được lắp đặt ngay chính giữa thân máy rất thuận tiện sử dụng cho cả 2 tay. Máy sử dụng nguồn pin sạc với dung lượng pin khi sạc đầy lên tới 600mAh cho bạn thoải mái tạo kiểu cho các bé.",
-            "quantity": 30,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/30/fd/4a/26a2423eafb8e08ff9464758ab100d38.jpg.webp"
-        },
-        {
-            "product_id": 28,
-            "name": "Bàn Chải Điện P/S S100 PRO - Công Nghệ Sóng  m, Chải Sạch Mảng Bám Tới 10X - Đen Nhám",
-            "manufactorer": "Trung Quốc",
-            "price": 872000,
-            "description": "Bàn chải điện P/S S100 PRO sử dụng công nghệ sóng âm Sonic giúp làm sạch mảng bám tới 10 lần so với bàn chải thông thường. Bộ sản phẩm bao gồm: 01 thân bàn chải điện, 02 đầu chải, 01 bộ sạc USB",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/2f/06/d8/8efa211eda485758734f75217eb0905e.png.webp"
-        },
-        {
-            "product_id": 29,
-            "name": "Máy hút mụn đầu đen mini cầm tay(hàng loại 1)",
-            "manufactorer": "Việt Nam",
-            "price": 121000,
-            "description": "Bạn không có thời gian đi chăm sóc da ở Spa. Những loại dụng cụ lấy mụn, hút mụn thường không hiệu quả, và dễ dàng gây nhiễm trùng khiến bạn lo lắng. => Đừng lo ! chúng tôi sẽ giúp bạn giải quyết vấn đề đó với máy hút mụn mini cao cấp với công nghệ sạc pin không dùng điện, giá cả phải chăng chất lượng cao Sản phẩm có nhiều ưu điểm nổi bật như hút được nhiều loại mụn khác nhau mà không làm tổn hai đến các lớp biểu bì dưới da và giúp da trắng sáng, láng mụn, mịn màng hơn.",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/60/36/06/80263f2d5775739fc74eb85a43c171d2.jpg.webp"
-        },
-        {
-            "product_id": 30,
-            "name": "Gel rửa mặt tạo bọt làm sạch & giảm nhờn cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel (400ml)",
-            "manufactorer": "Pháp",
-            "price": 479000,
-            "description": "Gel rửa mặt tạo bọt làm sạch & giảm nhờn cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel 400ml sẽ giúp ngăn ngừa và hỗ trợ điều trị mụn tối đa với kết cấu dạng gel trong dễ dàng tạo bọt cùng công thức không chứa dầu, không cồn, an toàn cho làn da. Sản phẩm nhẹ nhàng làm sạch da từ sâu trong lỗ chân lông, loại bỏ bụi bẩn cùng dầu thừa, đồng thời giữ độ pH luôn ở mức cân bằng 5.5 nên sau khi rửa mặt xong, da không hề khô rít, căng rát, mà vẫn mềm mịn, sạch thoáng và đầy sức sống.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e0/3a/41/f48ef4481946b255661484f3c2b0dacf.jpg.webp"
-        },
-        {
-            "product_id": 31,
-            "name": "Dầu Gội và Xả Thảo Dược Hà Thủ Ô Giảm Rụng Tóc, Bạc Tóc Cocayhoala 300g",
-            "manufactorer": "Việt Nam",
-            "price": 171000,
-            "description": "Hà thủ ô: là một loại thảo dược có nhiều công dụng tốt cho sức khỏe con người, bồi bổ khí huyết, tăng cường lưu thông máu giúp da dẻ hồng hà. Đặc biệt công dụng nổi bật nhất được công nhận hiệu quả rất tốt đối với tóc, làm chậm quá trình bạc tóc, làm đen tóc cũng như kích thích mọc tóc.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d4/33/de/7577b02343a13d84ed24245855201502.jpg.webp"
-        },
-        {
-            "product_id": 32,
-            "name": "Sữa Tắm Lifebuoy 1100g Chăm Sóc Da Dưỡng ẩm Mềm Mịn Giúp Bảo Vệ Khỏi 99.9% Vi Khuẩn Và Ngăn Ngừa Vi Khuẩn Lây Lan Trên Da",
-            "manufactorer": "Việt Nam",
-            "price": 174000,
-            "description": "Trong sinh hoạt hàng ngày, tay luôn là nơi tiếp xúc với rất nhiều vi khuẩn nếu không rửa tay thường xuyên để sạch khuẩn thì rất có khả năng cao sẽ ảnh hưỡng đến sức khoẻ bản thân. Với dòng sản phẩm nước rửa tay từ Lifebuoy Chăm Sóc Da có khả năng làm sạch đến 99,9% vi khuẩn cùng tinh chất sữa sẽ da tay bạn và cả gia đình luôn được sạch sẽ và mịn màng, tránh được các vấn đề sức khoẻ do vi khuẩn gây ra và ngăn ngừa vi khuẩn lây lan ra cộng đồng.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/00/80/53/1ceef74ffd6fd8d670e82b7bdb2c30f8.png.webp"
-        },
-        {
-            "product_id": 33,
-            "name": "Bộ Đôi Nước Súc Miệng Hương Bạc Hà Listerine Cool Mint (750ml/ Chai)",
-            "manufactorer": "Mỹ",
-            "price": 173000,
-            "description": "Bộ Đôi Nước Súc Miệng Hương Bạc Hà Listerine Cool Mint (750ml/ Chai) giúp bảo vệ răng miệng toàn diện hơn với thành phần Sodium Flouride cho răng chắc khỏe. Đồng thời chiết xuất bạc hà the mát vừa giúp ngừa mảng bám, vừa giúp giảm thiểu hôi miệng. Cho bạn tự tin với hơi thở thơm mát và hàm răng trắng sáng tạng rỡ.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c3/31/89/8939d0e9004f313fa35463246cd034b1.png.webp"
-        },
-        {
-            "product_id": 34,
-            "name": "Dầu Gội Đầu cho nam 900g Clear Men Cool Sport Bạc hà",
-            "manufactorer": "Việt Nam",
-            "price": 1706000,
-            "description": "Dầu Gội Clear Men Cool Sport Bạc Hà đặc chế riêng cho da đầu đàn ông. Với công nghệ 3X Sức Mạnh kết hợp cùng Taurine, Clear Men Cool Sport Bạc Hà với tinh thể bạc hà giúp loại bỏ gàu ngứa, mồ hôi và vi khuẩn, giúp cải thiện tình trạng gàu ngay lần đầu tiên. Là đàn ông phải thử!",
-            "quantity": 1050,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/86/f6/d2/e72551c1032e9765fbfaf506e3624af0.jpg.webp"
-        },
-        {
-            "product_id": 35,
-            "name": "Sữa rửa mặt làm sạch từ trà xanh đảo Jeju Innisfree Green Tea Foam Cleanser 150g",
-            "manufactorer": "Hàn Quốc",
-            "price": 222000,
-            "description": "Sữa rửa mặt làm sạch từ trà xanh đảo Jeju Innisfree Green Tea Foam Cleanser 150ml - NEW - Sữa rửa mặt tạo bọt dưỡng ẩm từ trà xanh giúp giảm thiểu bụi bẩn trong lỗ chân lông và dưỡng ẩm cho da với bọt mịn.",
-            "quantity": 1600,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/fa/57/de/27253ac2f774cf200d1eab001a3c8828.jpg.webp"
-        },
-        {
-            "product_id": 36,
-            "name": "Sữa rửa mặt se khít lỗ chân lông innisfree Super Volcanic Pore Micellar Cleansing Foam 2X 150gr",
-            "manufactorer": "Hàn Quốc",
-            "price": 260000,
-            "description": "Sữa rửa mặt se khít lỗ chân lông innisfree Super Volcanic Pore Micellar Cleansing Foam 2X 150ml làm sạch sâu hơn với hạt đá núi lửa Jeju Volcanic Cluster Sphere TM có khả năng hấp thụ lượng bã nhờn cao gấp đôi so với sản phẩm chứa tro núi lửa, có khả năng loại bỏ bụi bẩn và các hạt bụi siêu mịn tồn đọng trong lỗ chân lông và bề mặt da, khả năng làm sạch bụi mịn.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4b/cc/d3/1f405b6a2157478ea2a04f7c7de26f5c.png.webp"
-        },
-        {
-            "product_id": 37,
-            "name": "Bộ đôi chăm sóc phục hồi da Sữa Dưỡng Thể Dưỡng Trắng NIVEA Ban Ngày Giúp Phục Hồi & Chống Nắng SPF30 (350ml) - 88311 & Sữa Dưỡng Thể Dưỡng Trắng NIVEA Giúp Phục Hồi & Săn Da Ban Đêm (400ml)",
-            "manufactorer": "Đức",
-            "price": 209000,
-            "description": "SỮA DƯỠNG THỂ DƯỠNG TRẮNG NIVEA Ban Ngày Giúp Phục Hồi & Chống Nắng SPF30: Công thức độc đáo với tinh chất dưỡng trắng chuyên sâu Deep White Essense** có chứa các hạt phân tử dưỡng trắng siêu nhỏ giúp nuôi dưỡng và làm da trắng mịn từ sâu bên trong lớp biểu bì. Ngoài ra, sản phẩm được tăng cường chỉ số chống nắng SPF30 giúp bảo vệ da lâu hơn 30 lần khỏi tác hại của ánh nắng, từ đó ngăn ngừa làn da bị sạm đen trở lại.",
-            "quantity": 200,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6c/91/c2/47a38ada9769c58de63b71e072fabeb7.png.webp"
-        },
-        {
-            "product_id": 38,
-            "name": "Sữa Rửa Mặt Cetaphil Gentle Skin Cleaner (500ml)",
-            "manufactorer": "Canada",
-            "price": 299000,
-            "description": "Picare cùng nhãn hàng Gaderma xin thông báo kể từ ngày 17 tháng 9 năm 2021, vì tình hình dịch Covid-19 diễn biến phức tạp và nguồn lực hạn chế do tình trạng giãn cách xã hội kéo dài, các sản phẩm Cetaphil của nhãn hàng Galderma (Singapore) do Công ty TNHH DKSH Việt Nam phân phối sẽ tạm thời không có màng co nhựa (lớp bảo vệ) trên nắp chai như hình ảnh đính kèm.",
-            "quantity": 10,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/3d/03/bc/377861079ffc66760d26b903ec4655cb.jfif"
-        },
-        {
-            "product_id": 39,
-            "name": "Máy rửa mặt làm sạch bụi bẩn, bã nhờn và lớp trang điểm thừa có khả năng massage kích thích tuần hoàn máu",
-            "manufactorer": "Trung Quốc",
-            "price": 78000,
-            "description": "Công nghệ T-Sonic (rung sóng âm) với cơ chế rung đến 8000 nhịp/phút, kết hợp đầu silicone mềm cảm ứng điểm giúp nhẹ nhàng loại bỏ tế bào chết cũng như bụi bẩn, dầu và lớp trang điểm, làm thông thoáng lỗ chân lông, đồng thời có khả năng massage kích thích tuần hoàn máu, giúp chống lão hóa da.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bf/95/d8/18e2ae73f36caef3dac14724a2d3c72e.jpg.webp"
-        },
-        {
-            "product_id": 40,
-            "name": "Kem chống nắng dạng sữa lỏng nhẹ không nhờn rít La Roche-Posay Anthelios Shaka Fluid SPF 50+ 50ml",
-            "manufactorer": "Pháp",
-            "price": 429000,
-            "description": "Kem chống nắng dạng sữa lỏng nhẹ không nhờn rít La Roche-Posay Anthelios Shaka Fluid SPF 50+ 50ml là dòng sản phẩm có khả năng chống nắng phổ rộng, bảo vệ da toàn diện trước tác hại từ tia UVA/UVB. Chất kem dạng sữa với công nghệ Intelimer giúp kháng trôi tối đa với kết cấu lỏng nhẹ, thẩm thấu nhanh, không nhờn rít, không để lại vệt trắng da. Sản phẩm an toàn với mọi loại da, đặc biệt được chuyên gia khuyên dùng cho da nhạy cảm với ánh nắng do cơ địa hoặc tác nhân bên ngoài.",
-            "quantity": 50,
-            "category": [
-                {
-                    "name": "Sức khỏe & làm đep",
-                    "id": 103
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f8/5f/a3/900f26ba42e837acd330b4b9e9cb3e4a.jpg.webp"
-        },
-        {
-            "product_id": 41,
-            "name": "Máy Đánh Trứng Cầm Tay 7 Tốc Độ Công Suất 180W",
-            "manufactorer": "OEM",
-            "price": 114000,
-            "description": "Máy đánh trứng cầm tay trở thành một dụng cụ không thể thiếu đối với các đầu bếp, các chị em nội trợ. Thay thế các dụng cụ đánh trứng bằng tay bởi tính tiện dụng và tiết kiệm thời gian, máy đánh trứng mini còn có thể làm cho các nguyên liệu chế biến khác như sữa, café, kem tươi, đồ ăn cho trẻ… trở nên mềm mịn hơn.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cc/38/c3/cb5d347cdff866d7ed2bb14cd7f407f3.jpg.webp"
-        },
-        {
-            "product_id": 42,
-            "name": "Nồi Chiên Không Dầu Điện Tử Lock&Lock EJF357BLK (5.2 Lít)",
-            "manufactorer": "OEM",
-            "price": 3795000,
-            "description": "Nồi Chiên Không Dầu Lock&Lock EJF357BLK (5.2 Lít) chỉ cần nguyên liệu, không cần dầu mỡ, có thể giảm chất béo, giúp người dùng có thể chế biến những món ăn có lợi cho sức khỏe.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/0a/39/ae/f91fd8121b888e0c287dfbaff763c38d.jpg.webp"
-        },
-        {
-            "product_id": 43,
-            "name": "Máy xay hạt cafe cầm tay siêu nhanh 150W",
-            "manufactorer": "OEM",
-            "price": 225000,
-            "description": "Như chúng ta đã biết thì nhu cầu sử dụng cà phê đang càng ngày càng tăng cao và đây cũng chính là thức uống được yêu thích nhất trên thị trường hiện nay. Kéo theo đó chính là nhu cầu mua máy xay cà phê cũng tăng dần. Nếu như bạn chưa biết thì máy xay cà phê hạt mini đang là một công cụ cực kỳ đặc lực cho gia đình bạn.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/94/45/83/66011243653dc07b1460bf45329e2285.jpg.webp"
-        },
-        {
-            "product_id": 44,
-            "name": "Bếp Hồng Ngoại Sunhouse SHD6011 - Đen",
-            "manufactorer": "Trung Quốc",
-            "price": 549000,
-            "description": "Sản phẩm được kiểm soát chất lượng bởi chuyên gia Sunhouse Hàn Quốc sẽ giúp bạn có được sản phẩm vừa tiện dụng, vừa đảm bảo an toàn khi sử dụng.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/58/1d/254399425980ec6e00c80ffc26c52f83.jpg.webp"
-        },
-        {
-            "product_id": 45,
-            "name": "Máy làm sữa hạt xay nấu UNIE V8S dung tích 1.75L công suất 1800W",
-            "manufactorer": "Châu Âu",
-            "price": 2369000,
-            "description": "Máy nấu sữa hạt đa năng Unie V8S đến từ thương hiệu UNIE Việt Nam. Máy được lập trình sẵn 10 chương trình nấu  thông minh giúp bạn dễ dàng nấu sữa hạt như: sữa ngô, sữa đậu nành, sữa hạt óc chó, làm sinh tố, nấu cháo, … cho cả gia đình chỉ trong vài phút. Sở hữu cối thủy tinh Borosilicate 5 lớp chịu nhiệt đến 300 độ C, nắp inox chống trào hiện đại. Chắc chắn máy nấu sữa hạt Unie V8S sẽ là lựa chọn hoàn hảo cho gia đình bạn. ",
-            "quantity": 150,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/fc/1c/4b/a68d6f240d0e33ddfc20be8d2f68c471.jpg.webp"
-        },
-        {
-            "product_id": 46,
-            "name": "Máy xay thịt đa năng dung tích 3 lít",
-            "manufactorer": "OEM",
-            "price": 555000,
-            "description": "Máy xay thịt đa năng dung tích 3 lít - 300w",
-            "quantity": 200,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/83/aa/22/46b827e30da7700be8c5fcb835c4e9f5.jpg.webp"
-        },
-        {
-            "product_id": 47,
-            "name": "Máy Làm Bánh BIYI BM1513F",
-            "manufactorer": "Hong Kong",
-            "price": 555000,
-            "description": "Máy làm bánh làm nóng 2 bên với màu đa dạng dễ dàng lựa chọn",
-            "quantity": 500,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1d/0f/05/dfd3dd1031802e7e702b1b87a087b6cd.jpg.webp"
-        },
-        {
-            "product_id": 48,
-            "name": "Máy hút chân không thực phẩm Vacuum Sealer dùng cho gia đình, hút khỏe, hết khí- Tặng 10 túi hút.",
-            "manufactorer": "OEM",
-            "price": 190000,
-            "description": "Theo các nhà chuyên môn, nếu để thịt bò, gia cầm, ngũ cốc trong tủ đông được 6 tháng thì thực phẩm đóng gói chân không sẽ giữ được từ 2-3 năm. Chẳng hạn, dâu tây chỉ có thể để trong tủ lạnh từ 1 đến 3 ngày để giữ tươi nhưng đóng gói chân không có thể giữ được một tuần… Ngoài ra, thực phẩm để trong môi trường chân không cũng giữ nhiệt tốt, có thể giữ thức ăn nóng hay lạnh khi dã ngoại hay mang đi xa trong một vài giờ.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4b/e5/3e/ee08a055ff886a14ddc06be6621872ea.jpg.webp"
-        },
-        {
-            "product_id": 49,
-            "name": "Ấm Điện Thủy Tinh Siêu Tốc Có Điều Chỉnh Nhiệt Độ Lock&Lock EJK341 (1.8L)",
-            "manufactorer": "Châu Âu",
-            "price": 1070000,
-            "description": "Ấm điện thủy tinh siêu tốc có điều chỉnh nhiệt độ Lock&Lock EJK341 có thiết kế đẹp mắt với hệ thống đèn LED chiếu sáng đặc biệt, nhiệt độ khác nhau thì cho ra màu sắc khác nhau, thuận tiện sử dụng. Thân bình được làm bằng chất liệu thủy tinh cao cấp sáng bóng và đảm bảo an toàn cho sức khỏe. Bình có công suất hoạt động mạnh mẽ lên đến 1850 - 2200W giúp đun sôi nước nhanh và dung tích lên đến 1.8 lít.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6f/df/e9/3595a22c8a947cacfbd347a7a3d66a9f.jpg.webp"
-        },
-        {
-            "product_id": 50,
-            "name": "Lẩu Điện Sunhouse SHD4525 (5.0 Lít)",
-            "manufactorer": "Trung Quốc",
-            "price": 950000,
-            "description": "Nồi lẩu điện SUNHOUSE SHD4525 có thân nồi làm từ thép sơn tĩnh điện có khả năng chịu nhiệt cao và ít bị ảnh hưởng bởi môi trường. Màu sắc trang nhã, hạn chế bong tróc, dễ dàng vệ sinh.",
-            "quantity": 100,
-            "category": [
-                {
-                    "name": "Gia dụng",
-                    "id": 104
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bd/fb/23/4eacb291630b717e0b37b4ff665d7f95.jpg.webp"
-        },
-        {
-            "product_id": 51,
-            "name": "Sữa bột Anlene Gold 5X hương vani lon 400g",
-            "manufactorer": "Malay",
-            "price": 255000,
-            "description": "Anlene Gold 5X/Anlene 5 khoẻ vàng mới là sản phẩm sữa chứa phức hợp dinh dưỡng với hoạt chất MFGM được kiểm nghiệm lâm sàng giúp cải thiện toàn diện hệ vận động: Cơ khỏe, Xương chắc, Khớp linh hoạt, Nhanh nhẹn hơn, Thêm năng lượng.",
-            "quantity": 500,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/86cee92551c47f479f52cab922834285"
-        },
-        {
-            "product_id": 52,
-            "name": "Bánh Quy Quasure Light Sữa hộp 140 gram Bibica - thực phẩm dành cho người ăn kiêng, tiểu đường",
-            "manufactorer": "Việt Nam",
-            "price": 19500,
-            "description": "Sản phẩm được sự tư vấn & thử nghiệm lâm sàng của Viện Dinh Dưỡng Việt Nam.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/2150c4958858f9862873365a1eb4c646"
-        },
-        {
-            "product_id": 53,
-            "name": "Dầu Đậu Nành Simply 2L",
-            "manufactorer": "Việt Nam",
-            "price": 110000,
-            "description": "Dầu đậu nành là một trong những loại dầu thực vật được sử dụng rộng rãi nhất trên thế giới bởi những lợi ích sức khỏe, điểm bốc khói cao cũng như thành phần và chất chống ôxi hóa lưu lại trong dầu ngay cả sau khi được tinh luyện.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/77f9d67b027d22290483ac594e0467b1"
-        },
-        {
-            "product_id": 54,
-            "name": "Dầu Olive nguyên chất Olivoila Extra Virgin 250ml",
-            "manufactorer": "Italy",
-            "price": 68000,
-            "description": "Dầu Ôliu Nguyên Chất Olivoilà (250ml) là sản phẩm nhập khẩu nguyên chai từ Ý. Dầu được chiết xuất từ Ôliu nguyên chất, đảm bảo giữ nguyên hàm lượng dưỡng chất dồi dào. Dầu Ôliu có tác dụng chống ôxi hóa rất tốt, giúp tiêu hóa nhanh các chất béo ăn vào cơ thể và là dung môi hiệu quả cho việc hấp thụ các Vitamin vào cơ thể. Dầu Ôliu được đóng trong chai nhuộm màu tối nhằm đảm bảo cho dầu không bị tác động bởi ánh sáng mặt trời, kéo dài thời gian sử dụng.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/f892b4147bf09efe54fecbb6997c8499"
-        },
-        {
-            "product_id": 55,
-            "name": "Dầu ăn Meizan Gold 2L",
-            "manufactorer": "Việt Nam",
-            "price": 89000,
-            "description": "Dầu ăn cao cấp Meizan Gold với công thức vàng, kết hợp hoàn hảo từ 3 loại dầu tự nhiên cao cấp: Dầu hướng dương giàu Vitamin E, chống ô-xy hóa hiệu quả kết hợp dầu đậu nành giàu Omega 3-6-9, giúp ngăn ngừa các bệnh tim mạch đặc biệt dầu Olein cao cấp với khả năng chịu nhiệt cao, giúp các món chiên giòn ngon khó cưỡng.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/eb4cd0a6395a1739262207c098aeadc4"
-        },
-        {
-            "product_id": 56,
-            "name": "Dầu Đậu Nành Simply 5L",
-            "manufactorer": "Việt Nam",
-            "price": 255000,
-            "description": "Dầu đậu nành là một trong những loại dầu thực vật được sử dụng rộng rãi nhất trên thế giới bởi những lợi ích sức khỏe, điểm bốc khói cao cũng như thành phần và chất chống ôxi hóa lưu lại trong dầu ngay cả sau khi được tinh luyện. Dầu đậu nành nguyên chất chứa tới 80% axít béo chưa bão hòa, có tác dụng làm giảm đáng kể cholesterol trong máu, đặc biệt là cholesterol xấu.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/d96de64da91bfe71e5e00da230ec111d"
-        },
-        {
-            "product_id": 57,
-            "name": "Mật ong nguyên chất Rừng tràm CÔ CỰ 100ml - cam kết chất lượng chính hãng",
-            "manufactorer": "Việt Nam",
-            "price": 19000,
-            "description": "Luôn cung cấp cho khách hàng những sản phẩm mùa vụ mới nhất, thơm ngon, chất lượng tốt nhât trên thị trường. Nhờ việc áp dụng việc khai thác mật ong theo quy trình xuất khẩu. Bằng cách di chuyển liên tục đàn ong của mình dựa theo chu kỳ các mùa hoa nở để tạo ra những sản phẩm chất lượng. Sau đó liên kết với các sàn thương mại điện tử để bán trực tiếp mật ong đến với người sử dụng không qua bất kì trung gian nào khác. Công ty TNHH Trà Xanh Bảo Lộc hân hạnh mang lại những chai mật ong chất lượng đạt tiêu chuẩn xuất khẩu. Với giá bán phù hợp nhất với túi tiền của người tiêu dùng Việt.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Mật ong & Nước tăng lực",
-                    "id": 108
-                }
-            ],
-            "image": "https://cf.shopee.vn/file/332cc98afb9f937d3d3e6c33d8b809cb"
-        },
-        {
-            "product_id": 58,
-            "name": "Socola Snickers 51g",
-            "manufactorer": "Trung Quốc",
-            "price": 17800,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Socola",
-                    "id": 109
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f7/e7/d8/c8de7c602660a91dd22d356194455c2b.png.webp"
-        },
-        {
-            "product_id": 59,
-            "name": "Kẹo Oishi Ổi 160g",
-            "manufactorer": "Việt Nam",
-            "price": 8800,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 10000,
-            "category": [
-                {
-                    "name": "Kẹo",
-                    "id": 110
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/69/a0/5f/f73f81f1f4e4bb868e3bfafcf74ca7ac.png.webp"
-        },
-        {
-            "product_id": 60,
-            "name": "Dầu hào Kum Chun Lee Kum Kee 510g",
-            "manufactorer": "Trung Quốc",
-            "price": 21700,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "a"
-        },
-        {
-            "product_id": 61,
-            "name": "Tương cà Chinsu 250g",
-            "manufactorer": "Việt Nam",
-            "price": 12800,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 5000,
-            "category": [
-                {
-                    "name": "Tương",
-                    "id": 111
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/9b/74/9f/2bc693e9b3080e97986943f43e5feffa.png.webp"
-        },
-        {
-            "product_id": 62,
-            "name": "Sữa Milo 4x180ml",
-            "manufactorer": "Việt Nam",
-            "price": 25300,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 10000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/64/4e/58/438af4a442b8168faf983e87e80f1474.png.webp"
-        },
-        {
-            "product_id": 63,
-            "name": "Sô cô la nguyên chất Đen hạt nút 55% túi 1kg của Puratos Grand-Place",
-            "manufactorer": "Bỉ",
-            "price": 225000,
-            "description": "Sô cô la nguyên chất được sản xuất từ bơ cao nguyên chất nên cần temper ( xử lý nhiệt ) trước khi sử dụng cho các ứng dụng như làm bánh, làm sốt sô cô la, đổ kẹo,...",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Socola",
-                    "id": 109
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f3/68/1d/7d8692df6c5d6b67241ecf278d880f1c.png.webp"
-        },
-        {
-            "product_id": 64,
-            "name": "Combo 2 Bánh snack khoai tây miếng Lay's Stax Mix vị 160g",
-            "manufactorer": "Việt Nam",
-            "price": 78000,
-            "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
-            "quantity": 2000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6a/91/5b/f93a88dd254c815fef3427579e9a3b70.jpg.webp"
-        },
-        {
-            "product_id": 65,
-            "name": "Bánh Chocopie Hộp 20 Cái (660g)",
-            "manufactorer": "Hàn Quốc",
-            "price": 82000,
-            "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a2/46/7a/380239bcfbf76f1e222a754f4d441378.jpeg.webp"
-        },
-        {
-            "product_id": 66,
-            "name": "Bánh Custas Hộp 20 Cái (470g)",
-            "manufactorer": "Việt Nam",
-            "price": 98000,
-            "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "a"
-        },
-        {
-            "product_id": 67,
-            "name": "Lốc 4 sữa chua Nutimilk trân châu ngọc trai 100g",
-            "manufactorer": "Việt Nam",
-            "price": 38000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c3/99/55/b38d9c7e964eb485923bc59ebba822e5.png.webp"
-        },
-        {
-            "product_id": 68,
-            "name": "Bánh Cosy Wonderfull Oats Double Choco 163.2g",
-            "manufactorer": "Việt Nam",
-            "price": 22300,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0f/83/63/e3d11a3c2900c3185a5bc05bf3e0d87b.png.webp"
-        },
-        {
-            "product_id": 69,
-            "name": "Hộp 6 thanh Fitto - Trà xanh 210g",
-            "manufactorer": "Việt Nam",
-            "price": 173000,
-            "description": "THƯƠNG HIỆU 365 BEGIN bắt nguồn từ đam mê nghiên cứu dinh dưỡng từ các loại hạt, trái cây và ngũ cốc nguyên cám. Với sứ mệnh đem đến những sản phẩm dinh dưỡng, chất lượng cần thiết cho hoạt động hằng ngày của cơ thể. Trải qua quá trình nghiên cứu tâm huyết, thử nghiệm nhiều lần, 365Begin cho ra đời những thanh năng lượng 100% thành phần tự nhiên, không chất bảo quản với dinh dưỡng đến từ các loại hạt, trái cây, ngũ cốc kết hợp với vị ngọt từ mật ong đem đến một khẩu phần ăn khoa học và tiện lợi ",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/34/ea/be/4d9c38413873d56d0b8f3a8b71fc56be.png.webp"
-        },
-        {
-            "product_id": 70,
-            "name": "Hộp 6 Thanh Fitto - Sô Cô La 210g",
-            "manufactorer": "Việt Nam",
-            "price": 173000,
-            "description": "THƯƠNG HIỆU 365 BEGIN bắt nguồn từ đam mê nghiên cứu dinh dưỡng từ các loại hạt, trái cây và ngũ cốc nguyên cám. Với sứ mệnh đem đến những sản phẩm dinh dưỡng, chất lượng cần thiết cho hoạt động hằng ngày của cơ thể. Trải qua quá trình nghiên cứu tâm huyết, thử nghiệm nhiều lần, 365Begin cho ra đời những thanh năng lượng 100% thành phần tự nhiên, không chất bảo quản với dinh dưỡng đến từ các loại hạt, trái cây, ngũ cốc kết hợp với vị ngọt từ mật ong đem đến một khẩu phần ăn khoa học và tiện lợi",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/59/2c/f0/6028c042d47ab946deaed458dfd281ad.png.webp"
-        },
-        {
-            "product_id": 71,
-            "name": "Bánh cuộn Solite dâu 360g",
-            "manufactorer": "Việt Nam",
-            "price": 42300,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 5000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0e/7b/b1/8d51acabc2de0b79f1ac2c5a3beacad1.png.webp"
-        },
-        {
-            "product_id": 72,
-            "name": "Bánh Creamo Socola 85g",
-            "manufactorer": "Việt Nam",
-            "price": 6900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 10000,
-            "category": [
-                {
-                    "name": "Bánh",
-                    "id": 106
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/91/47/a6/70bdec2e3b08f5015abf0baacbbca582.png.webp"
-        },
-        {
-            "product_id": 73,
-            "name": "Bơ magarine Tường An 200g",
-            "manufactorer": "Việt Nam",
-            "price": 15900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 500,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/33/9e/75/ced95501135dccd8a0c1686d2c12570e.png.webp"
-        },
-        {
-            "product_id": 74,
-            "name": "Lốc 6 sữa Đậu Nành Fami Nguyên Chất 200ml",
-            "manufactorer": "Việt Nam",
-            "price": 34000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f4/0c/70/58f21feebec4a59cb014e4cdc806af50.jpg.webp"
-        },
-        {
-            "product_id": 75,
-            "name": "Lốc 6 Sữa đậu nành Vinasoy nguyên chất 200ml",
-            "manufactorer": "Việt Nam",
-            "price": 29900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/19/1a/6e/16d597b3611cdab6db677c32ab3493a7.png.webp"
-        },
-        {
-            "product_id": 76,
-            "name": "SPDD Friso Gold 3 (1-2 tuổi) hộp thiếc 1.4kg",
-            "manufactorer": "Việt Nam",
-            "price": 685000,
-            "description": "Xem trên bao bì",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/89/9b/36/2abc0ac344eb530c36ea592e3c7e9005.png.webp"
-        },
-        {
-            "product_id": 77,
-            "name": "SPDD Nan 1 Optipro HMO (0-6M) HT 900g",
-            "manufactorer": "Việt Nam",
-            "price": 416500,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e6/20/68/e6d5878f2fc584ea9038087b55d26d8a.png.webp"
-        },
-        {
-            "product_id": 78,
-            "name": "Nước Sting vàng lon 330ml - Lốc 6 lon",
-            "manufactorer": "Việt Nam",
-            "price": 60000,
-            "description": "Sản phẩm nước uống tăng lực thơm ngon của thương hiệu Sting được sản xuất từ các thành phần tự nhiên, mùi vị thơm ngon, sảng khoái. Sản phẩm giúp cơ thể bù đắp nước, bổ sung năng lượng, vitamin C và E, giúp xua tan cơn khát và cảm giác mệt mỏi. Cam kết chính hãng và an toà",
-            "quantity": 10000,
-            "category": [
-                {
-                    "name": "Mật ong & Nước tăng lực",
-                    "id": 108
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/b2/a0/e9/614ae0cdd167bdf63b98bc80644b5d3d.jpeg.webp"
-        },
-        {
-            "product_id": 79,
-            "name": "Lốc 6 Lon Nước Tăng Lực Rockstar (250ml/ lon)",
-            "manufactorer": "Mỹ",
-            "price": 55000,
-            "description": "Đón đầu xu hướng nước giải khát hiện nay, Suntory Pepsico tiếp tục giới thiệu tới người tiêu dùng một sản phẩm mới mang thương hiệu Rockstar. Rockstar được ra mắt từ năm 2001 ở Mỹ và hiện tại đang là nhãn hàng nước tăng lực đứng thứ 3 thế giới (dựa trên số liệu năm 2020).",
-            "quantity": 5000,
-            "category": [
-                {
-                    "name": "Mật ong & Nước tăng lực",
-                    "id": 108
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d1/a7/51/a8d35423e3759b6f221d94d33ad45a9b.png.webp"
-        },
-        {
-            "product_id": 80,
-            "name": "Gia vị nêm sẵn Bún bò Huế Aji Quick 59G",
-            "manufactorer": "Việt Nam",
-            "price": 6900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/88/a9/0f/c51d10d47e523f2024892a77126c67e7.png.webp"
-        },
-        {
-            "product_id": 81,
-            "name": "Gia vị nêm sẵn Phở bò Aji Quick gói 57g",
-            "manufactorer": "Việt Nam",
-            "price": 6900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/82/b7/2e/f8b6c6736e08f62a8ad5c1053b0efd3c.png.webp"
-        },
-        {
-            "product_id": 82,
-            "name": "Muối chấm Hảo Hảo tôm chua cay 120g",
-            "manufactorer": "Việt Nam",
-            "price": 13200,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Dầu ăn & Gia vị",
-                    "id": 107
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/95/e5/cf/0c81d91d6034b287c9ed1123aca766d0.png.webp"
-        },
-        {
-            "product_id": 83,
-            "name": "Nước tương Nam Dương đậm đặc 500ml",
-            "manufactorer": "Việt Nam",
-            "price": 10600,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Tương",
-                    "id": 111
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/39/0d/2a/d5a14fb75685e4790d698b7a2212d9cc.png.webp"
-        },
-        {
-            "product_id": 84,
-            "name": "Nước tương đậu nành Maggi đậm đặc 300ml",
-            "manufactorer": "Việt Nam",
-            "price": 14300,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Tương",
-                    "id": 111
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/90/c3/27/b3692f1c9af92d122816b549e824289b.png.webp"
-        },
-        {
-            "product_id": 85,
-            "name": "Nước chấm Nam Ngư siêu tiết kiệm 4.8L",
-            "manufactorer": "Việt Nam",
-            "price": 58900,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Tương",
-                    "id": 111
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/08/65/fc/bf485b76209d11a050e5ab63a143fec6.png.webp"
-        },
-        {
-            "product_id": 86,
-            "name": "Nước mắm Nam Ngư 3in1 900ml",
-            "manufactorer": "Việt Nam",
-            "price": 49800,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Tương",
-                    "id": 111
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/be/55/39/b111d4f0b3cb4201fa09b013c931df28.png.webp"
-        },
-        {
-            "product_id": 87,
-            "name": "Lốc 6 chai sữa Fristi dâu 80ml",
-            "manufactorer": "Việt Nam",
-            "price": 23300,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
-            "quantity": 10000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6a/3f/80/bab0198dd9031d4c53ecb80b37ba5e43.png.webp"
-        },
-        {
-            "product_id": 88,
-            "name": "Trà hồng sâm cô đặc Nokchawon 300g",
-            "manufactorer": "Việt Nam",
-            "price": 195000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Trà & cà phê",
-                    "id": 112
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/06/f8/b9/1d15cf4916f788609f0957ba77ee585c.png.webp"
-        },
-        {
-            "product_id": 89,
-            "name": "Trà Sơn Mật Hồng Sâm Mộc Sắc",
-            "manufactorer": "Việt Nam",
-            "price": 150000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Trà & cà phê",
-                    "id": 112
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a4/e4/39/550c79458e23e767cb6b8dc383eb97a7.jpg.webp"
-        },
-        {
-            "product_id": 90,
-            "name": "Cafe phố sữa đá 10*24g",
-            "manufactorer": "Việt Nam",
-            "price": 40200,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Trà & cà phê",
-                    "id": 112
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/28/e5/32/8a6d0f3c9fa8d3963e70993671d2d79c.png.webp"
-        },
-        {
-            "product_id": 91,
-            "name": "Cà phê Phố sữa đá 30*24g",
-            "manufactorer": "Việt Nam",
-            "price": 118000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Trà & cà phê",
-                    "id": 112
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/7d/35/87/af3359c04a45f23110e9d0aeb36c0a88.png.webp"
-        },
-        {
-            "product_id": 92,
-            "name": "NutiMilk Lốc 4 Hộp Sữa chua Nha Đam",
-            "manufactorer": "Việt Nam",
-            "price": 28000,
-            "description": "Bảo quản trong ngăn mát tủ lạnh",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1f/98/2f/56edeb2def25a502dd77ccf95615d7bf.png.webp"
-        },
-        {
-            "product_id": 93,
-            "name": "Sữa đặc ông thọ đỏ tuýp 165g",
-            "manufactorer": "Việt Nam",
-            "price": 21000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5b/2e/5e/cc97962b5c59394c2e56e5ea291efe41.png.webp"
-        },
-        {
-            "product_id": 94,
-            "name": "Cream đặc NGÔI SAO PHƯƠNG NAM xanh dương hộp thiếc 380g",
-            "manufactorer": "Việt Nam",
-            "price": 21000,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 5000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/28/42/da/337b0e17d5838f28aafbbcf46a6458f6.png.webp"
-        },
-        {
-            "product_id": 95,
-            "name": "Sữa đặc Cô Gái Hà Lan túi 560g",
-            "manufactorer": "Việt Nam",
-            "price": 33500,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f5/6d/47/f73d94f908d271bb65722ea19071b50b.png.webp"
-        },
-        {
-            "product_id": 96,
-            "name": "Thực phẩm dinh dưỡng Ensure Gold Vigor Vani pet 237ml",
-            "manufactorer": "Việt Nam",
-            "price": 48500,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 2000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4e/02/a3/163e88186892c47bd01dbd441f553eb5.png.webp"
-        },
-        {
-            "product_id": 97,
-            "name": "Thực phẩm dinh dưỡng ENSURE Gold vani hộp thiết 850g",
-            "manufactorer": "Việt Nam",
-            "price": 853200,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 500,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c2/1c/69/0cf35290b901494658714644be66ee91.png.webp"
-        },
-        {
-            "product_id": 98,
-            "name": "Cream đặc có đường Ngôi Sao Phương Nam xanh 1284g",
-            "manufactorer": "Việt Nam",
-            "price": 65500,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 1000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/77/58/77/2c440de194f64ba22626d41eb756387b.png.webp"
-        },
-        {
-            "product_id": 99,
-            "name": "Lốc 4 sữa TH True Milk không đường 180ml",
-            "manufactorer": "Việt Nam",
-            "price": 31400,
-            "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
-            "quantity": 3000,
-            "category": [
-                {
-                    "name": "Sữa & Bơ",
-                    "id": 105
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cf/ad/a9/5cc26571b6c0a0d138dc3bd4bb70c0f2.png.webp"
-        },
-        {
-            "product_id": 100,
-            "name": "Combo 4 Vỉ Kẹo Cao Su Không Đường TRIDENT Vị Bạc Hà 4x26,6g",
-            "manufactorer": "Việt Nam",
-            "price": 75000,
-            "description": "TRIDENT là thương hiệu lớn của Mỹ, đến từ Công ty Mondelez Kinh Đô, từ lâu đã là sản phẩm kẹo cao su không thể thiếu của những người sành ăn. Kẹo Cao Su TRIDENT Vị Bạc Hà mang đến cho bạn hơi thở thơm mát cùng một tinh thần sảng khoái.",
-            "quantity": 6000,
-            "category": [
-                {
-                    "name": "Kẹo",
-                    "id": 109
-                }
-            ],
-            "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/c3/12/da/065c11417819033b0c1971a2c6348b6d.jpg.webp"
-        }
-     ]
+[
+  {
+    "product_id": "1",
+    "name": "Máy giặt Samsung Inverter 8 kg WW80T3020WW",
+    "manufactorer": "Hàn Quốc",
+    "price": 4949000,
+    "description": "Tận hưởng khả năng giặt giũ tiện lợi trên máy giặt Samsung. Màn hình LED rộng lớn hiển thị rõ ràng và cho phép người dùng dễ dàng đọc các chỉ số. Bạn có thể kiểm tra nhanh chóng tình trạng giặt giũ, cài đặt chương trình, xem thời gian còn lại và quy trình giặt. Tối ưu hiệu suất giặt quần áo và chăm sóc sợi vải bền lâu với 14 chương trình giặt được tích hợp sẵn trong máy.",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/66/a8/13/2e2080910aeb92c72509551b7dd9369e.jpg.webp"
+  },
+  {
+    "product_id": "2",
+    "name": "Máy Nước Nóng Trực Tiếp Ariston AURES SMC45E-SBS-VN",
+    "manufactorer": "Việt Nam",
+    "price": 2349000,
+    "description": "Máy Nước Nóng Trực Tiếp Ariston AURES SMC45E-SBS-VN sở hữu công nghệ nhiệt độ ổn định nhiệt bất chấp mọi điều kiện lưu lượng và nhiệt độ nước đầu vào. Thiết kế độc đáo và sang trọng được phát triển bởi NTK người Ý nổi tiếng Umberto Palermo. Hệ thống chống bỏng thông minh ngăn cho máy không hoạt động khi nhiệt độ nước đầu vào vượt quá mức nhiệt độ cài đặt. Cầu giao chống giật ELCB với chức năng tự động kiểm tra (Auto test)",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/9c/2d/66/3652b65155044765e808862dbb321da3.jpg.webp"
+  },
+  {
+    "product_id": "3",
+    "name": "Tủ Lạnh Aqua 130 lít AQR-T150FA-BS",
+    "manufactorer": "Trung Quốc",
+    "price": 4090000,
+    "description": "Tủ lạnh Aqua sở hữu công nghệ Nano Fresh Ag+ ứng dụng tính chất của các ion Ag+, giúp diệt khuẩn và ngăn ngừa sự phát triển của vi khuẩn nấm mốc, giữ bầu không khí luôn sạch khuẩn và thoáng mát. Với sự hỗ trợ này, chúng ta có thể thoải mái lưu trữ thực phẩm cho gia đình nhiều ngày mà không phải lo đến việc ám mùi",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/52/b6/cb/42ad65ccd1e96c2a28da47cf277cff7a.jpg.webp"
+  },
+  {
+    "product_id": "4",
+    "name": "Máy Lạnh Daikin 1 HP FTF25UV1V",
+    "manufactorer": "Thái Lan",
+    "price": 7620000,
+    "description": "Máy Lạnh Daikin 1 HP FTF25UV1V có thiết kế phẳng, đường nét thiết kế mềm mại giúp bạn vệ sinh bên ngoài máy lạnh một cách dễ dàng, cùng với tông màu trắng tinh tế càng tôn lên sự sang trọng cho căn phòng của bạn. Máy lạnh này có công suất 1 HP phù hợp với những căn phòng có diện tích dưới 15 m2.",
+    "quantity": 20,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e1/77/98/9da5790bfda0d164a4853752dd48c587.jpg.webp"
+  },
+  {
+    "product_id": "5",
+    "name": "Loa Thanh 2.1ch 150W HW-T420/XV",
+    "manufactorer": "Hàn Quốc",
+    "price": 1419000,
+    "description": "Loa siêu trầm tích hợp 6.5 inch, Công nghệ Smart Sound tối ưu âm thanh theo từng cảnh, Tối ưu âm thanh chơi game với chế độ Game Mode.",
+    "quantity": 30,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/23/93/bb/083e9bdb828faa3b0e86cf3889e0537a.jpg.webp"
+  },
+  {
+    "product_id": "6",
+    "name": "Chân để máy giặt",
+    "manufactorer": "Việt Nam",
+    "price": 175000,
+    "description": "Chân đế máy giặt cao cấp được làm khung inox chắc chắn,có thể điều chỉnh được kích thước phù hợp dung tích từng loại máy giặt. 4 thanh nối được làm bằng inox chống gi bền chắc. Chân đế làm băng nhựa cao cấp chông rung lắc khi máy giặt,tủ lạnh hoạt đông.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/ef/0b/57/d75e68f56f13482d5b2e1fda57cdadc1.jpg.webp"
+  },
+  {
+    "product_id": "7",
+    "name": "Kệ kê tủ lạnh , chân máy giặt chống rung lắc kich thước thay đổi",
+    "manufactorer": "OEM",
+    "price": 69120,
+    "description": "Kệ kê tủ lạnh , chân máy giặt chống rung lắc kich thước thay đổi bảo vệ máy giặt, tủ lạnh không bị dính nước, chống ẩm. Giúp đồ dùng không bị han gỉ, chạy êm, tăng tuổi thọ. Kệ có thể thay đổi được cả chiều dài và chiều rộng tùy chỉnh theo kích thước máy giặt, tủ lạnh.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1d/dc/38/1d2299b1e99ecd092b21f79e0bb6374e.jpg.webp"
+  },
+  {
+    "product_id": "8",
+    "name": "Smart Tivi QLED Samsung 4K 43 inch QA43Q60A Mới 2021",
+    "manufactorer": "Hàn Quốc",
+    "price": 14020000,
+    "description": "Smart Tivi QLED Samsung 4K 43 inch QA43Q60A mang đến phong cách thiết kế vượt bậc Airslim với độ mỏng ấn tượng thu hút mọi ánh nhìn mở rộng không gian màn hình hiển thị cho phép người dùng trải nghiệm những hình ảnh sống động, sắc nét hơn, nâng tầm không gian sống hiện đại cho ngôi nhà của bạn. ",
+    "quantity": 20,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d8/4d/91/bce547f5c13f91c7d3d8b0ede55973f0.jpg.webp"
+  },
+  {
+    "product_id": "9",
+    "name": "Tủ Lạnh Mini Dung Tích 8L Làm Mát 0 Độ Làm Nóng 65 Độ Dễ Dàng Mang Đi Du Lịch, Picnic Hàng Chính Hãng Baseus",
+    "manufactorer": "Trung Quốc",
+    "price": 1890000,
+    "description": "Nhiệt độ làm mát lên tới 0 độ C có thể dùng để bảo quản mỹ phẩm rất tốt, Chuyên gia khóa tươi toàn diện, chức năng sưởi ấm và làm mát. Có thể đặt trái cây, đồ uống, bento, sữa chua, tinh chất và mặt nạ trong đó.",
+    "quantity": 30,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f5/cd/a1/dd228adc071b9cce3964a2258c3deb80.jpg.webp"
+  },
+  {
+    "product_id": "10",
+    "name": "Tủ ướp, bảo quản rượu vang thương hiệu Homesun, Model: BCW-70A, Thể tích 70L(Chứa được 28 chai)",
+    "manufactorer": "Trung Quốc",
+    "price": 10700000,
+    "description": " Rượu vang là một thức uống có lịch sử ra đời hàng nghìn năm TCN. Nó không phải là một thức uống bình thường, đối với những người có đam mê và hiểu biết về vang thì nó được coi là một báu vật. Vì vậy việc bảo quản tốt để mùi vị và chất lượng của vang luôn được đảm bảo là điều rất quan trọng đối với mỗi người sử dụng vang. Để giải quyết các vấn để đó Homesun đã phát triển và cho ra đời dòng sản phẩm TỦ BẢO QUẢN RƯỢU BCW-70A.",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Điện tử",
+        "id": 101
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cd/1d/66/08f6e1fa7203c0ddb36b2eae0141903f.jpg.webp"
+  },
+  {
+    "product_id": "11",
+    "name": "Điện Thoại iPhone 13 Pro Max 256GB",
+    "manufactorer": "Mỹ",
+    "price": 37990000,
+    "description": "iPhone 13 sở hữu hệ thống camera kép xuất sắc nhất từ trước đến nay, bộ vi xử lý Apple A15 nhanh nhất thế giới smartphone cùng thời lượng pin cực khủng, sẵn sàng đồng hành cùng bạn suốt cả ngày.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/3d/81/c8/f36fd25e2640244f3b8d7102c337fda6.jpg.webp"
+  },
+  {
+    "product_id": "12",
+    "name": "Điện Thoại Samsung Galaxy M12 (4GB/64GB)",
+    "manufactorer": "Hàn Quốc",
+    "price": 3709000,
+    "description": "Điện Thoại Samsung Galaxy M12 (4GB/64GB) thoải mái trải nghiệm nhiều nội dung hơn với màn hình tràn viền vô cực Infinity-V 6,5 inch trên mãnh thú Galaxy M12.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/38/0f/76/3377a65a5e426e395b9984e275886353.jpg.webp"
+  },
+  {
+    "product_id": "13",
+    "name": "Máy tính bảng Masstel Tab 8.1 (3GB/32GB) - Hàng chính hãng - Đã kích hoạt bảo hành điện tử",
+    "manufactorer": "Việt Nam",
+    "price": 2690000,
+    "description": "Đến từ thương hiệu Việt Nam và là một trong những mẫu máy tính bảng có giá thành rẻ nhất thị trường, chiếc máy tính bảng Masstel Tab 8.1 4G cho thấy hàng loạt ưu điểm nổi trội khi sở hữu cấu hình vượt trội phân khúc, hỗ trợ đầy đủ các băng tần 2G/3G/4G, chạy hệ điều hành Android 11 mượt mà và sở hữu màn hình IPS trung thực.",
+    "quantity": 60,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/57/21/24/2f15f7232cc020c7899c68e7f45e5bda.jpg.webp"
+  },
+  {
+    "product_id": "14",
+    "name": "Điện Thoại Samsung Galaxy M62 (8GB/256GB)",
+    "manufactorer": "Hàn Quốc",
+    "price": 8659000,
+    "description": "Điện Thoại Samsung Galaxy M62 có thiết kế tinh giản với vân sọc 3D hiện đại đầy lôi cuốn của Galaxy M62 với 3 gam màu độc đáo Đen, Xanh Ngọc và Xanh Dương. Thân máy được tinh chỉnh tỉ mỉ với đường cong mềm mại, cho phép cầm nắm và sử dụng điện thoại dễ dàng trong thời gian dài.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/2b/64/ac148eee30c9c34e5eb57e428675baad.jpg.webp"
+  },
+  {
+    "product_id": "15",
+    "name": "Điện thoại Xiaomi Redmi 9A (2GB/32GB)",
+    "manufactorer": "Trung Quốc",
+    "price": 2410000,
+    "description": "Dù thuộc phân khúc giá rẻ nhưng Điện thoại Xiaomi Redmi 9A lại sở hữu một màn hình tràn viền kích thước cực lớn 6.53 inch với thiết kế theo kiểu giọt nước quen thuộc, đi theo xu hướng chung của những mẫu smartphone hiện nay.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0c/cd/34/0b6abf38aaba0a3507c7c2610a15dc9f.jpg.webp"
+  },
+  {
+    "product_id": "16",
+    "name": "Máy tính bảng Fire HD10 2021 - 11th - (All New Fire HD10 - 2021) - Ram 3/4GB, bộ nhớ 32GB, màn hình 1080 FullHD",
+    "manufactorer": "Mỹ",
+    "price": 3380000,
+    "description": "ALL NEW Fire HD10 2021 (11th) là dòng sản phẩm đánh vào phân khúc giá rẻ của máy tính bảng. Mục đích ban đầu của nhà sản xuất là bù đắp cho sự thiếu hụt của máy đọc sách công nghệ Eink ở tính năng đọc PDF. Sau này trở thành dòng sản phẩm riêng biệt nhắm vào nhu cầu giải trí phim ảnh trong hệ sinh thái sáng tạo.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/35/70/14/88312e6ac50973c738781553d0a20405.jpg.webp"
+  },
+  {
+    "product_id": "17",
+    "name": "Điện Thoại Samsung Galaxy Note 20 Ultra (8GB/256GB)",
+    "manufactorer": "Hàn Quốc",
+    "price": 24134000,
+    "description": "Đã từ lâu, sự kết hợp giữa Note và S Pen thông minh định hình nên một thế hệ siêu phẩm, đầy quyền năng, ngay trong tay bạn. Với hiệu năng đáng kinh ngạc như máy tính, khả năng chỉnh sửa, quay video 8K chuyên nghiệp và định chuẩn trải nghiệm vượt trội dành cho game di động, siêu phẩm Note mới hứa hẹn mang đến những đột phá khác biệt, hoàn hảo dù bạn giải trí hay làm việc. Đây là thế hệ smartphone đổi mới toàn diện cách bạn làm việc và giải trí.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/92/1c/2d/3522748350d119855e054062c007f7c1.jpg.webp"
+  },
+  {
+    "product_id": "18",
+    "name": "Điện thoại Xiaomi POCO X3 PRO",
+    "manufactorer": "Trung Quốc",
+    "price": 5190000,
+    "description": "Ra mắt nổi bật với thiết kế khá độc đáo với cụm camera, màn hình mượt mà như lụa, pin khủng, sạc cực nhanh và loa chất lượng phòng thu hứa hẹn sẽ mang lại trải nghiệm người dùng ấn tượng. Thiết kế hiện đạ",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/04/07/65/ef713f1c63c80511dc14fdcf92c886be.jpg.webp"
+  },
+  {
+    "product_id": "19",
+    "name": "ĐIỆN THOẠI TÂN CỔ ĐIỂN DT4 bàn phím quay",
+    "manufactorer": "Hong Kong",
+    "price": 2100000,
+    "description": "Điện thoại dùng lắp như điện thoại bàn cho khách hàng lựa chọn. Hộp đóng mở bàn phím gọn gàng, chuông thanh bàn phím quay, nghe gọi rõ ràng. Kiểu Dáng cổ điển sang trong phù hợp nhà Lâu Đài, Biệt thự, Liền kề, Chung cư cao cấp. Thích hợp làm quà tặng Sếp,Tân gia nhà mới, trang trí quán cafe, nhà hàng, khách sạn, studio, phim trường. Sản phẩm không thể thiếu đối với những ai đam mê phong cách Vintage cổ điển",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d5/3d/05/63247352b91a136c15cfd77dcf7cc686.JPG.webp"
+  },
+  {
+    "product_id": "20",
+    "name": "Điện Thoại Nokia 105 Dual Sim (2019)",
+    "manufactorer": "Việt Nam",
+    "price": 379000,
+    "description": "Điện Thoại Nokia 105 Dual Sim (2019) có thiết kế hiện đại với các đường bo tròn độc đáo cho bạn dễ dàng cầm giữ cũng như bỏ máy vào túi. Kiểu dáng thanh lịch, cá tính và năng động cho giới trẻ. Đặc biệt hơn với nhiều màu sắc bắt mắt cho bạn dễ dàng lựa chọn theo sở thích. Chiếc điện thoại Nokia này có thể cho vào túi quần hay túi áo mà bạn sẽ không cảm thấy khó chịu vì nó. Đặc biệt độ hoàn thiện của những chiếc máy Nokia luôn được người dùng đáng giá rất cao và bạn sẽ không cần phải lo lắng vì có lỡ làm đánh rơi máy.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c4/06/23/9991ec95117ea17f4c3174ff58747524.jpg.webp"
+  },
+  {
+    "product_id": "21",
+    "name": "Điện Thoại iPhone 11 64GB",
+    "manufactorer": "Mỹ",
+    "price": 14590000,
+    "description": "Điện Thoại iPhone 11 là sản phẩm kế nhiệm cho chiếc iPhone Xr từng dành được sự chú ý của giới công nghệ. Lần này, Apple vẫn đi theo những tiêu chỉ của Xr khi tạo ra iPhone 11. Đầu tiên là thiết kế trẻ trung có thể thấy được ngay trên sự đa dạng màu sắc. Hơn nhữa, những màu của iPhone 11 đều mang xu hướng phá cách, tinh nghịch. Nhưng đồng thời, màu sắc này cũng mang trong nó một sự sang trọng nhất định.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5b/b2/c4/9574b9439edac59ab025881b9e62fc18.jpg.webp"
+  },
+  {
+    "product_id": "22",
+    "name": "Điện Thoại Samsung Galaxy Z Fold 3 (256GB)",
+    "manufactorer": "Hàn Quốc",
+    "price": 40639000,
+    "description": "Sẵn sàng mở ra tiềm năng công nghệ mới. Không dừng lại ở một chiếc điện thoại thông minh cao cấp, mà nó còn bền bỉ và kết nối siêu tốc với 5G. Kế đến là màn hình tràn viền lớn với trải nghiệm gập mở độc nhất để bạn có thể giải trí và làm việc ở một cách hoàn hảo.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d0/5f/dc/0ca1b78f3b9a5bd6e2f7947d281e4f86.jpg.webp"
+  },
+  {
+    "product_id": "23",
+    "name": "Điện Thoại Bàn Homephone lắp sim",
+    "manufactorer": "Trung Quốc",
+    "price": 616000,
+    "description": "Điện thoại đa dụng với nhiều chức năng khác nhau: Quản lý hỗ trợ các cuộc gọi đồng thời đa dạng nhạc chuông và cài đặt âm lượng",
+    "quantity": 30,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4c/df/7d/b76a5733e59bbee16e6c4ba773259af2.jpg.webp"
+  },
+  {
+    "product_id": "24",
+    "name": "Điện Thoại iPhone 12 128GB",
+    "manufactorer": "Mỹ",
+    "price": 21560000,
+    "description": "Apple đã quyết định giữ nguyên thiết kế notch tai thỏ quen thuộc cho màn hình iPhone 12, nhưng phần notch đã được tinh giản nhỏ gọn lại nhằm tạo thêm tỷ lệ hiển thị hình ảnh trên màn hình. Về kích thước, màn hình của máy rộng 6.1 inch, độ phân giải 2532x 1170pixels.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e1/66/c2/47859ea06eb4b00ad41bbe81636e4373.jpg.webp"
+  },
+  {
+    "product_id": "25",
+    "name": "Điện thoại Nokia 110 4G",
+    "manufactorer": "Ba Lan",
+    "price": 739000,
+    "description": "Nokia chính thức trình làng chiếc điện thoại Nokia 110 4G phiên bản nâng cấp của Nokia 110 2019 có điểm nhấn chính là công nghệ kết nối Internet 4G thỏa thích trải nghiệm mọi lúc, mọi nơi cùng với một thiết kế vô cùng mới mẻ và sang trọng. Thiết kế sang trọng, bền bỉ",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Điện thoại",
+        "id": 102
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5c/99/f2/aec789eb283be95b844dbb25a1bbdd66.png.webp"
+  },
+  {
+    "product_id": "26",
+    "name": "Máy Massage Cá Heo Thư Giãn",
+    "manufactorer": "OEM",
+    "price": 195000,
+    "description": "Massage là biện pháp tốt nhất giúp các huyệt đạo trên cơ thể được lưu thông, tuần hoàn máu trong cơ thể, giảm nhức mỏi và hỗ trợ chữa được một số bệnh. Nhất là với những người có môi trường làm việc ít vận động hay vận động quá mức đều dễ dẫn đến việc đau nhức cơ thể liên tục.",
+    "quantity": 20,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bc/9a/16/e21df65119611037f33d0ab1bee5d11a.jpg.webp"
+  },
+  {
+    "product_id": "27",
+    "name": "Tông Đơ Cắt Tóc Gia Đình JC 0817 Đa Năng",
+    "manufactorer": "OEM",
+    "price": 214000,
+    "description": "Tính năng nổi bật của sản phẩm sản phẩm tông đơ cắt tóc gia đình JC 0817: Tông đơ có thiết kế nhỏ nhắn với 2 tông màu sáng phối rất hài hòa và hợp lý giúp phân biệt rõ ràng giữa các phần chức năng trên thân máy. Kết cấu máy được bố trí rất khoa học với phần công tắc điều chỉnh được lắp đặt ngay chính giữa thân máy rất thuận tiện sử dụng cho cả 2 tay. Máy sử dụng nguồn pin sạc với dung lượng pin khi sạc đầy lên tới 600mAh cho bạn thoải mái tạo kiểu cho các bé.",
+    "quantity": 30,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/30/fd/4a/26a2423eafb8e08ff9464758ab100d38.jpg.webp"
+  },
+  {
+    "product_id": "28",
+    "name": "Bàn Chải Điện P/S S100 PRO - Công Nghệ Sóng  m, Chải Sạch Mảng Bám Tới 10X - Đen Nhám",
+    "manufactorer": "Trung Quốc",
+    "price": 872000,
+    "description": "Bàn chải điện P/S S100 PRO sử dụng công nghệ sóng âm Sonic giúp làm sạch mảng bám tới 10 lần so với bàn chải thông thường. Bộ sản phẩm bao gồm: 01 thân bàn chải điện, 02 đầu chải, 01 bộ sạc USB",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/2f/06/d8/8efa211eda485758734f75217eb0905e.png.webp"
+  },
+  {
+    "product_id": "29",
+    "name": "Máy hút mụn đầu đen mini cầm tay(hàng loại 1)",
+    "manufactorer": "Việt Nam",
+    "price": 121000,
+    "description": "Bạn không có thời gian đi chăm sóc da ở Spa. Những loại dụng cụ lấy mụn, hút mụn thường không hiệu quả, và dễ dàng gây nhiễm trùng khiến bạn lo lắng. => Đừng lo ! chúng tôi sẽ giúp bạn giải quyết vấn đề đó với máy hút mụn mini cao cấp với công nghệ sạc pin không dùng điện, giá cả phải chăng chất lượng cao Sản phẩm có nhiều ưu điểm nổi bật như hút được nhiều loại mụn khác nhau mà không làm tổn hai đến các lớp biểu bì dưới da và giúp da trắng sáng, láng mụn, mịn màng hơn.",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/60/36/06/80263f2d5775739fc74eb85a43c171d2.jpg.webp"
+  },
+  {
+    "product_id": "30",
+    "name": "Gel rửa mặt tạo bọt làm sạch & giảm nhờn cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel (400ml)",
+    "manufactorer": "Pháp",
+    "price": 479000,
+    "description": "Gel rửa mặt tạo bọt làm sạch & giảm nhờn cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel 400ml sẽ giúp ngăn ngừa và hỗ trợ điều trị mụn tối đa với kết cấu dạng gel trong dễ dàng tạo bọt cùng công thức không chứa dầu, không cồn, an toàn cho làn da. Sản phẩm nhẹ nhàng làm sạch da từ sâu trong lỗ chân lông, loại bỏ bụi bẩn cùng dầu thừa, đồng thời giữ độ pH luôn ở mức cân bằng 5.5 nên sau khi rửa mặt xong, da không hề khô rít, căng rát, mà vẫn mềm mịn, sạch thoáng và đầy sức sống.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e0/3a/41/f48ef4481946b255661484f3c2b0dacf.jpg.webp"
+  },
+  {
+    "product_id": "31",
+    "name": "Dầu Gội và Xả Thảo Dược Hà Thủ Ô Giảm Rụng Tóc, Bạc Tóc Cocayhoala 300g",
+    "manufactorer": "Việt Nam",
+    "price": 171000,
+    "description": "Hà thủ ô: là một loại thảo dược có nhiều công dụng tốt cho sức khỏe con người, bồi bổ khí huyết, tăng cường lưu thông máu giúp da dẻ hồng hà. Đặc biệt công dụng nổi bật nhất được công nhận hiệu quả rất tốt đối với tóc, làm chậm quá trình bạc tóc, làm đen tóc cũng như kích thích mọc tóc.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d4/33/de/7577b02343a13d84ed24245855201502.jpg.webp"
+  },
+  {
+    "product_id": "32",
+    "name": "Sữa Tắm Lifebuoy 1100g Chăm Sóc Da Dưỡng ẩm Mềm Mịn Giúp Bảo Vệ Khỏi 99.9% Vi Khuẩn Và Ngăn Ngừa Vi Khuẩn Lây Lan Trên Da",
+    "manufactorer": "Việt Nam",
+    "price": 174000,
+    "description": "Trong sinh hoạt hàng ngày, tay luôn là nơi tiếp xúc với rất nhiều vi khuẩn nếu không rửa tay thường xuyên để sạch khuẩn thì rất có khả năng cao sẽ ảnh hưỡng đến sức khoẻ bản thân. Với dòng sản phẩm nước rửa tay từ Lifebuoy Chăm Sóc Da có khả năng làm sạch đến 99,9% vi khuẩn cùng tinh chất sữa sẽ da tay bạn và cả gia đình luôn được sạch sẽ và mịn màng, tránh được các vấn đề sức khoẻ do vi khuẩn gây ra và ngăn ngừa vi khuẩn lây lan ra cộng đồng.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/00/80/53/1ceef74ffd6fd8d670e82b7bdb2c30f8.png.webp"
+  },
+  {
+    "product_id": "33",
+    "name": "Bộ Đôi Nước Súc Miệng Hương Bạc Hà Listerine Cool Mint (750ml/ Chai)",
+    "manufactorer": "Mỹ",
+    "price": 173000,
+    "description": "Bộ Đôi Nước Súc Miệng Hương Bạc Hà Listerine Cool Mint (750ml/ Chai) giúp bảo vệ răng miệng toàn diện hơn với thành phần Sodium Flouride cho răng chắc khỏe. Đồng thời chiết xuất bạc hà the mát vừa giúp ngừa mảng bám, vừa giúp giảm thiểu hôi miệng. Cho bạn tự tin với hơi thở thơm mát và hàm răng trắng sáng tạng rỡ.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c3/31/89/8939d0e9004f313fa35463246cd034b1.png.webp"
+  },
+  {
+    "product_id": "34",
+    "name": "Dầu Gội Đầu cho nam 900g Clear Men Cool Sport Bạc hà",
+    "manufactorer": "Việt Nam",
+    "price": 1706000,
+    "description": "Dầu Gội Clear Men Cool Sport Bạc Hà đặc chế riêng cho da đầu đàn ông. Với công nghệ 3X Sức Mạnh kết hợp cùng Taurine, Clear Men Cool Sport Bạc Hà với tinh thể bạc hà giúp loại bỏ gàu ngứa, mồ hôi và vi khuẩn, giúp cải thiện tình trạng gàu ngay lần đầu tiên. Là đàn ông phải thử!",
+    "quantity": 1050,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/86/f6/d2/e72551c1032e9765fbfaf506e3624af0.jpg.webp"
+  },
+  {
+    "product_id": "35",
+    "name": "Sữa rửa mặt làm sạch từ trà xanh đảo Jeju Innisfree Green Tea Foam Cleanser 150g",
+    "manufactorer": "Hàn Quốc",
+    "price": 222000,
+    "description": "Sữa rửa mặt làm sạch từ trà xanh đảo Jeju Innisfree Green Tea Foam Cleanser 150ml - NEW - Sữa rửa mặt tạo bọt dưỡng ẩm từ trà xanh giúp giảm thiểu bụi bẩn trong lỗ chân lông và dưỡng ẩm cho da với bọt mịn.",
+    "quantity": 1600,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/fa/57/de/27253ac2f774cf200d1eab001a3c8828.jpg.webp"
+  },
+  {
+    "product_id": "36",
+    "name": "Sữa rửa mặt se khít lỗ chân lông innisfree Super Volcanic Pore Micellar Cleansing Foam 2X 150gr",
+    "manufactorer": "Hàn Quốc",
+    "price": 260000,
+    "description": "Sữa rửa mặt se khít lỗ chân lông innisfree Super Volcanic Pore Micellar Cleansing Foam 2X 150ml làm sạch sâu hơn với hạt đá núi lửa Jeju Volcanic Cluster Sphere TM có khả năng hấp thụ lượng bã nhờn cao gấp đôi so với sản phẩm chứa tro núi lửa, có khả năng loại bỏ bụi bẩn và các hạt bụi siêu mịn tồn đọng trong lỗ chân lông và bề mặt da, khả năng làm sạch bụi mịn.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4b/cc/d3/1f405b6a2157478ea2a04f7c7de26f5c.png.webp"
+  },
+  {
+    "product_id": "37",
+    "name": "Bộ đôi chăm sóc phục hồi da Sữa Dưỡng Thể Dưỡng Trắng NIVEA Ban Ngày Giúp Phục Hồi & Chống Nắng SPF30 (350ml) - 88311 & Sữa Dưỡng Thể Dưỡng Trắng NIVEA Giúp Phục Hồi & Săn Da Ban Đêm (400ml)",
+    "manufactorer": "Đức",
+    "price": 209000,
+    "description": "SỮA DƯỠNG THỂ DƯỠNG TRẮNG NIVEA Ban Ngày Giúp Phục Hồi & Chống Nắng SPF30: Công thức độc đáo với tinh chất dưỡng trắng chuyên sâu Deep White Essense** có chứa các hạt phân tử dưỡng trắng siêu nhỏ giúp nuôi dưỡng và làm da trắng mịn từ sâu bên trong lớp biểu bì. Ngoài ra, sản phẩm được tăng cường chỉ số chống nắng SPF30 giúp bảo vệ da lâu hơn 30 lần khỏi tác hại của ánh nắng, từ đó ngăn ngừa làn da bị sạm đen trở lại.",
+    "quantity": 200,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6c/91/c2/47a38ada9769c58de63b71e072fabeb7.png.webp"
+  },
+  {
+    "product_id": "38",
+    "name": "Sữa Rửa Mặt Cetaphil Gentle Skin Cleaner (500ml)",
+    "manufactorer": "Canada",
+    "price": 299000,
+    "description": "Picare cùng nhãn hàng Gaderma xin thông báo kể từ ngày 17 tháng 9 năm 2021, vì tình hình dịch Covid-19 diễn biến phức tạp và nguồn lực hạn chế do tình trạng giãn cách xã hội kéo dài, các sản phẩm Cetaphil của nhãn hàng Galderma (Singapore) do Công ty TNHH DKSH Việt Nam phân phối sẽ tạm thời không có màng co nhựa (lớp bảo vệ) trên nắp chai như hình ảnh đính kèm.",
+    "quantity": 10,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/3d/03/bc/377861079ffc66760d26b903ec4655cb.jfif"
+  },
+  {
+    "product_id": "39",
+    "name": "Máy rửa mặt làm sạch bụi bẩn, bã nhờn và lớp trang điểm thừa có khả năng massage kích thích tuần hoàn máu",
+    "manufactorer": "Trung Quốc",
+    "price": 78000,
+    "description": "Công nghệ T-Sonic (rung sóng âm) với cơ chế rung đến 8000 nhịp/phút, kết hợp đầu silicone mềm cảm ứng điểm giúp nhẹ nhàng loại bỏ tế bào chết cũng như bụi bẩn, dầu và lớp trang điểm, làm thông thoáng lỗ chân lông, đồng thời có khả năng massage kích thích tuần hoàn máu, giúp chống lão hóa da.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bf/95/d8/18e2ae73f36caef3dac14724a2d3c72e.jpg.webp"
+  },
+  {
+    "product_id": "40",
+    "name": "Kem chống nắng dạng sữa lỏng nhẹ không nhờn rít La Roche-Posay Anthelios Shaka Fluid SPF 50+ 50ml",
+    "manufactorer": "Pháp",
+    "price": 429000,
+    "description": "Kem chống nắng dạng sữa lỏng nhẹ không nhờn rít La Roche-Posay Anthelios Shaka Fluid SPF 50+ 50ml là dòng sản phẩm có khả năng chống nắng phổ rộng, bảo vệ da toàn diện trước tác hại từ tia UVA/UVB. Chất kem dạng sữa với công nghệ Intelimer giúp kháng trôi tối đa với kết cấu lỏng nhẹ, thẩm thấu nhanh, không nhờn rít, không để lại vệt trắng da. Sản phẩm an toàn với mọi loại da, đặc biệt được chuyên gia khuyên dùng cho da nhạy cảm với ánh nắng do cơ địa hoặc tác nhân bên ngoài.",
+    "quantity": 50,
+    "category": [
+      {
+        "name": "Sức khỏe & làm đep",
+        "id": 103
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f8/5f/a3/900f26ba42e837acd330b4b9e9cb3e4a.jpg.webp"
+  },
+  {
+    "product_id": "41",
+    "name": "Máy Đánh Trứng Cầm Tay 7 Tốc Độ Công Suất 180W",
+    "manufactorer": "OEM",
+    "price": 114000,
+    "description": "Máy đánh trứng cầm tay trở thành một dụng cụ không thể thiếu đối với các đầu bếp, các chị em nội trợ. Thay thế các dụng cụ đánh trứng bằng tay bởi tính tiện dụng và tiết kiệm thời gian, máy đánh trứng mini còn có thể làm cho các nguyên liệu chế biến khác như sữa, café, kem tươi, đồ ăn cho trẻ… trở nên mềm mịn hơn.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cc/38/c3/cb5d347cdff866d7ed2bb14cd7f407f3.jpg.webp"
+  },
+  {
+    "product_id": "42",
+    "name": "Nồi Chiên Không Dầu Điện Tử Lock&Lock EJF357BLK (5.2 Lít)",
+    "manufactorer": "OEM",
+    "price": 3795000,
+    "description": "Nồi Chiên Không Dầu Lock&Lock EJF357BLK (5.2 Lít) chỉ cần nguyên liệu, không cần dầu mỡ, có thể giảm chất béo, giúp người dùng có thể chế biến những món ăn có lợi cho sức khỏe.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/0a/39/ae/f91fd8121b888e0c287dfbaff763c38d.jpg.webp"
+  },
+  {
+    "product_id": "43",
+    "name": "Máy xay hạt cafe cầm tay siêu nhanh 150W",
+    "manufactorer": "OEM",
+    "price": 225000,
+    "description": "Như chúng ta đã biết thì nhu cầu sử dụng cà phê đang càng ngày càng tăng cao và đây cũng chính là thức uống được yêu thích nhất trên thị trường hiện nay. Kéo theo đó chính là nhu cầu mua máy xay cà phê cũng tăng dần. Nếu như bạn chưa biết thì máy xay cà phê hạt mini đang là một công cụ cực kỳ đặc lực cho gia đình bạn.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/94/45/83/66011243653dc07b1460bf45329e2285.jpg.webp"
+  },
+  {
+    "product_id": "44",
+    "name": "Bếp Hồng Ngoại Sunhouse SHD6011 - Đen",
+    "manufactorer": "Trung Quốc",
+    "price": 549000,
+    "description": "Sản phẩm được kiểm soát chất lượng bởi chuyên gia Sunhouse Hàn Quốc sẽ giúp bạn có được sản phẩm vừa tiện dụng, vừa đảm bảo an toàn khi sử dụng.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/58/1d/254399425980ec6e00c80ffc26c52f83.jpg.webp"
+  },
+  {
+    "product_id": "45",
+    "name": "Máy làm sữa hạt xay nấu UNIE V8S dung tích 1.75L công suất 1800W",
+    "manufactorer": "Châu Âu",
+    "price": 2369000,
+    "description": "Máy nấu sữa hạt đa năng Unie V8S đến từ thương hiệu UNIE Việt Nam. Máy được lập trình sẵn 10 chương trình nấu  thông minh giúp bạn dễ dàng nấu sữa hạt như: sữa ngô, sữa đậu nành, sữa hạt óc chó, làm sinh tố, nấu cháo, … cho cả gia đình chỉ trong vài phút. Sở hữu cối thủy tinh Borosilicate 5 lớp chịu nhiệt đến 300 độ C, nắp inox chống trào hiện đại. Chắc chắn máy nấu sữa hạt Unie V8S sẽ là lựa chọn hoàn hảo cho gia đình bạn. ",
+    "quantity": 150,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/fc/1c/4b/a68d6f240d0e33ddfc20be8d2f68c471.jpg.webp"
+  },
+  {
+    "product_id": "46",
+    "name": "Máy xay thịt đa năng dung tích 3 lít",
+    "manufactorer": "OEM",
+    "price": 555000,
+    "description": "Máy xay thịt đa năng dung tích 3 lít - 300w",
+    "quantity": 200,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/83/aa/22/46b827e30da7700be8c5fcb835c4e9f5.jpg.webp"
+  },
+  {
+    "product_id": "47",
+    "name": "Máy Làm Bánh BIYI BM1513F",
+    "manufactorer": "Hong Kong",
+    "price": 555000,
+    "description": "Máy làm bánh làm nóng 2 bên với màu đa dạng dễ dàng lựa chọn",
+    "quantity": 500,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1d/0f/05/dfd3dd1031802e7e702b1b87a087b6cd.jpg.webp"
+  },
+  {
+    "product_id": "48",
+    "name": "Máy hút chân không thực phẩm Vacuum Sealer dùng cho gia đình, hút khỏe, hết khí- Tặng 10 túi hút.",
+    "manufactorer": "OEM",
+    "price": 190000,
+    "description": "Theo các nhà chuyên môn, nếu để thịt bò, gia cầm, ngũ cốc trong tủ đông được 6 tháng thì thực phẩm đóng gói chân không sẽ giữ được từ 2-3 năm. Chẳng hạn, dâu tây chỉ có thể để trong tủ lạnh từ 1 đến 3 ngày để giữ tươi nhưng đóng gói chân không có thể giữ được một tuần… Ngoài ra, thực phẩm để trong môi trường chân không cũng giữ nhiệt tốt, có thể giữ thức ăn nóng hay lạnh khi dã ngoại hay mang đi xa trong một vài giờ.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4b/e5/3e/ee08a055ff886a14ddc06be6621872ea.jpg.webp"
+  },
+  {
+    "product_id": "49",
+    "name": "Ấm Điện Thủy Tinh Siêu Tốc Có Điều Chỉnh Nhiệt Độ Lock&Lock EJK341 (1.8L)",
+    "manufactorer": "Châu Âu",
+    "price": 1070000,
+    "description": "Ấm điện thủy tinh siêu tốc có điều chỉnh nhiệt độ Lock&Lock EJK341 có thiết kế đẹp mắt với hệ thống đèn LED chiếu sáng đặc biệt, nhiệt độ khác nhau thì cho ra màu sắc khác nhau, thuận tiện sử dụng. Thân bình được làm bằng chất liệu thủy tinh cao cấp sáng bóng và đảm bảo an toàn cho sức khỏe. Bình có công suất hoạt động mạnh mẽ lên đến 1850 - 2200W giúp đun sôi nước nhanh và dung tích lên đến 1.8 lít.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6f/df/e9/3595a22c8a947cacfbd347a7a3d66a9f.jpg.webp"
+  },
+  {
+    "product_id": "50",
+    "name": "Lẩu Điện Sunhouse SHD4525 (5.0 Lít)",
+    "manufactorer": "Trung Quốc",
+    "price": 950000,
+    "description": "Nồi lẩu điện SUNHOUSE SHD4525 có thân nồi làm từ thép sơn tĩnh điện có khả năng chịu nhiệt cao và ít bị ảnh hưởng bởi môi trường. Màu sắc trang nhã, hạn chế bong tróc, dễ dàng vệ sinh.",
+    "quantity": 100,
+    "category": [
+      {
+        "name": "Gia dụng",
+        "id": 104
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/bd/fb/23/4eacb291630b717e0b37b4ff665d7f95.jpg.webp"
+  },
+  {
+    "product_id": "51",
+    "name": "Sữa bột Anlene Gold 5X hương vani lon 400g",
+    "manufactorer": "Malay",
+    "price": 255000,
+    "description": "Anlene Gold 5X/Anlene 5 khoẻ vàng mới là sản phẩm sữa chứa phức hợp dinh dưỡng với hoạt chất MFGM được kiểm nghiệm lâm sàng giúp cải thiện toàn diện hệ vận động: Cơ khỏe, Xương chắc, Khớp linh hoạt, Nhanh nhẹn hơn, Thêm năng lượng.",
+    "quantity": 500,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/86cee92551c47f479f52cab922834285"
+  },
+  {
+    "product_id": "52",
+    "name": "Bánh Quy Quasure Light Sữa hộp 140 gram Bibica - thực phẩm dành cho người ăn kiêng, tiểu đường",
+    "manufactorer": "Việt Nam",
+    "price": 19500,
+    "description": "Sản phẩm được sự tư vấn & thử nghiệm lâm sàng của Viện Dinh Dưỡng Việt Nam.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/2150c4958858f9862873365a1eb4c646"
+  },
+  {
+    "product_id": "53",
+    "name": "Dầu Đậu Nành Simply 2L",
+    "manufactorer": "Việt Nam",
+    "price": 110000,
+    "description": "Dầu đậu nành là một trong những loại dầu thực vật được sử dụng rộng rãi nhất trên thế giới bởi những lợi ích sức khỏe, điểm bốc khói cao cũng như thành phần và chất chống ôxi hóa lưu lại trong dầu ngay cả sau khi được tinh luyện.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/77f9d67b027d22290483ac594e0467b1"
+  },
+  {
+    "product_id": "54",
+    "name": "Dầu Olive nguyên chất Olivoila Extra Virgin 250ml",
+    "manufactorer": "Italy",
+    "price": 68000,
+    "description": "Dầu Ôliu Nguyên Chất Olivoilà (250ml) là sản phẩm nhập khẩu nguyên chai từ Ý. Dầu được chiết xuất từ Ôliu nguyên chất, đảm bảo giữ nguyên hàm lượng dưỡng chất dồi dào. Dầu Ôliu có tác dụng chống ôxi hóa rất tốt, giúp tiêu hóa nhanh các chất béo ăn vào cơ thể và là dung môi hiệu quả cho việc hấp thụ các Vitamin vào cơ thể. Dầu Ôliu được đóng trong chai nhuộm màu tối nhằm đảm bảo cho dầu không bị tác động bởi ánh sáng mặt trời, kéo dài thời gian sử dụng.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/f892b4147bf09efe54fecbb6997c8499"
+  },
+  {
+    "product_id": "55",
+    "name": "Dầu ăn Meizan Gold 2L",
+    "manufactorer": "Việt Nam",
+    "price": 89000,
+    "description": "Dầu ăn cao cấp Meizan Gold với công thức vàng, kết hợp hoàn hảo từ 3 loại dầu tự nhiên cao cấp: Dầu hướng dương giàu Vitamin E, chống ô-xy hóa hiệu quả kết hợp dầu đậu nành giàu Omega 3-6-9, giúp ngăn ngừa các bệnh tim mạch đặc biệt dầu Olein cao cấp với khả năng chịu nhiệt cao, giúp các món chiên giòn ngon khó cưỡng.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/eb4cd0a6395a1739262207c098aeadc4"
+  },
+  {
+    "product_id": "56",
+    "name": "Dầu Đậu Nành Simply 5L",
+    "manufactorer": "Việt Nam",
+    "price": 255000,
+    "description": "Dầu đậu nành là một trong những loại dầu thực vật được sử dụng rộng rãi nhất trên thế giới bởi những lợi ích sức khỏe, điểm bốc khói cao cũng như thành phần và chất chống ôxi hóa lưu lại trong dầu ngay cả sau khi được tinh luyện. Dầu đậu nành nguyên chất chứa tới 80% axít béo chưa bão hòa, có tác dụng làm giảm đáng kể cholesterol trong máu, đặc biệt là cholesterol xấu.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/d96de64da91bfe71e5e00da230ec111d"
+  },
+  {
+    "product_id": "57",
+    "name": "Mật ong nguyên chất Rừng tràm CÔ CỰ 100ml - cam kết chất lượng chính hãng",
+    "manufactorer": "Việt Nam",
+    "price": 19000,
+    "description": "Luôn cung cấp cho khách hàng những sản phẩm mùa vụ mới nhất, thơm ngon, chất lượng tốt nhât trên thị trường. Nhờ việc áp dụng việc khai thác mật ong theo quy trình xuất khẩu. Bằng cách di chuyển liên tục đàn ong của mình dựa theo chu kỳ các mùa hoa nở để tạo ra những sản phẩm chất lượng. Sau đó liên kết với các sàn thương mại điện tử để bán trực tiếp mật ong đến với người sử dụng không qua bất kì trung gian nào khác. Công ty TNHH Trà Xanh Bảo Lộc hân hạnh mang lại những chai mật ong chất lượng đạt tiêu chuẩn xuất khẩu. Với giá bán phù hợp nhất với túi tiền của người tiêu dùng Việt.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Mật ong & Nước tăng lực",
+        "id": 108
+      }
+    ],
+    "image": "https://cf.shopee.vn/file/332cc98afb9f937d3d3e6c33d8b809cb"
+  },
+  {
+    "product_id": "58",
+    "name": "Socola Snickers 51g",
+    "manufactorer": "Trung Quốc",
+    "price": 17800,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Socola",
+        "id": 109
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f7/e7/d8/c8de7c602660a91dd22d356194455c2b.png.webp"
+  },
+  {
+    "product_id": "59",
+    "name": "Kẹo Oishi Ổi 160g",
+    "manufactorer": "Việt Nam",
+    "price": 8800,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 10000,
+    "category": [
+      {
+        "name": "Kẹo",
+        "id": 110
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/69/a0/5f/f73f81f1f4e4bb868e3bfafcf74ca7ac.png.webp"
+  },
+  {
+    "product_id": "60",
+    "name": "Dầu hào Kum Chun Lee Kum Kee 510g",
+    "manufactorer": "Trung Quốc",
+    "price": 21700,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "a"
+  },
+  {
+    "product_id": "61",
+    "name": "Tương cà Chinsu 250g",
+    "manufactorer": "Việt Nam",
+    "price": 12800,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 5000,
+    "category": [
+      {
+        "name": "Tương",
+        "id": 111
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/9b/74/9f/2bc693e9b3080e97986943f43e5feffa.png.webp"
+  },
+  {
+    "product_id": "62",
+    "name": "Sữa Milo 4x180ml",
+    "manufactorer": "Việt Nam",
+    "price": 25300,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 10000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/64/4e/58/438af4a442b8168faf983e87e80f1474.png.webp"
+  },
+  {
+    "product_id": "63",
+    "name": "Sô cô la nguyên chất Đen hạt nút 55% túi 1kg của Puratos Grand-Place",
+    "manufactorer": "Bỉ",
+    "price": 225000,
+    "description": "Sô cô la nguyên chất được sản xuất từ bơ cao nguyên chất nên cần temper ( xử lý nhiệt ) trước khi sử dụng cho các ứng dụng như làm bánh, làm sốt sô cô la, đổ kẹo,...",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Socola",
+        "id": 109
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f3/68/1d/7d8692df6c5d6b67241ecf278d880f1c.png.webp"
+  },
+  {
+    "product_id": "64",
+    "name": "Combo 2 Bánh snack khoai tây miếng Lay's Stax Mix vị 160g",
+    "manufactorer": "Việt Nam",
+    "price": 78000,
+    "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
+    "quantity": 2000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6a/91/5b/f93a88dd254c815fef3427579e9a3b70.jpg.webp"
+  },
+  {
+    "product_id": "65",
+    "name": "Bánh Chocopie Hộp 20 Cái (660g)",
+    "manufactorer": "Hàn Quốc",
+    "price": 82000,
+    "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a2/46/7a/380239bcfbf76f1e222a754f4d441378.jpeg.webp"
+  },
+  {
+    "product_id": "66",
+    "name": "Bánh Custas Hộp 20 Cái (470g)",
+    "manufactorer": "Việt Nam",
+    "price": 98000,
+    "description": "Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "a"
+  },
+  {
+    "product_id": "67",
+    "name": "Lốc 4 sữa chua Nutimilk trân châu ngọc trai 100g",
+    "manufactorer": "Việt Nam",
+    "price": 38000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c3/99/55/b38d9c7e964eb485923bc59ebba822e5.png.webp"
+  },
+  {
+    "product_id": "68",
+    "name": "Bánh Cosy Wonderfull Oats Double Choco 163.2g",
+    "manufactorer": "Việt Nam",
+    "price": 22300,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0f/83/63/e3d11a3c2900c3185a5bc05bf3e0d87b.png.webp"
+  },
+  {
+    "product_id": "69",
+    "name": "Hộp 6 thanh Fitto - Trà xanh 210g",
+    "manufactorer": "Việt Nam",
+    "price": 173000,
+    "description": "THƯƠNG HIỆU 365 BEGIN bắt nguồn từ đam mê nghiên cứu dinh dưỡng từ các loại hạt, trái cây và ngũ cốc nguyên cám. Với sứ mệnh đem đến những sản phẩm dinh dưỡng, chất lượng cần thiết cho hoạt động hằng ngày của cơ thể. Trải qua quá trình nghiên cứu tâm huyết, thử nghiệm nhiều lần, 365Begin cho ra đời những thanh năng lượng 100% thành phần tự nhiên, không chất bảo quản với dinh dưỡng đến từ các loại hạt, trái cây, ngũ cốc kết hợp với vị ngọt từ mật ong đem đến một khẩu phần ăn khoa học và tiện lợi ",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/34/ea/be/4d9c38413873d56d0b8f3a8b71fc56be.png.webp"
+  },
+  {
+    "product_id": "70",
+    "name": "Hộp 6 Thanh Fitto - Sô Cô La 210g",
+    "manufactorer": "Việt Nam",
+    "price": 173000,
+    "description": "THƯƠNG HIỆU 365 BEGIN bắt nguồn từ đam mê nghiên cứu dinh dưỡng từ các loại hạt, trái cây và ngũ cốc nguyên cám. Với sứ mệnh đem đến những sản phẩm dinh dưỡng, chất lượng cần thiết cho hoạt động hằng ngày của cơ thể. Trải qua quá trình nghiên cứu tâm huyết, thử nghiệm nhiều lần, 365Begin cho ra đời những thanh năng lượng 100% thành phần tự nhiên, không chất bảo quản với dinh dưỡng đến từ các loại hạt, trái cây, ngũ cốc kết hợp với vị ngọt từ mật ong đem đến một khẩu phần ăn khoa học và tiện lợi",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/59/2c/f0/6028c042d47ab946deaed458dfd281ad.png.webp"
+  },
+  {
+    "product_id": "71",
+    "name": "Bánh cuộn Solite dâu 360g",
+    "manufactorer": "Việt Nam",
+    "price": 42300,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 5000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/0e/7b/b1/8d51acabc2de0b79f1ac2c5a3beacad1.png.webp"
+  },
+  {
+    "product_id": "72",
+    "name": "Bánh Creamo Socola 85g",
+    "manufactorer": "Việt Nam",
+    "price": 6900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 10000,
+    "category": [
+      {
+        "name": "Bánh",
+        "id": 106
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/91/47/a6/70bdec2e3b08f5015abf0baacbbca582.png.webp"
+  },
+  {
+    "product_id": "73",
+    "name": "Bơ magarine Tường An 200g",
+    "manufactorer": "Việt Nam",
+    "price": 15900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 500,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/33/9e/75/ced95501135dccd8a0c1686d2c12570e.png.webp"
+  },
+  {
+    "product_id": "74",
+    "name": "Lốc 6 sữa Đậu Nành Fami Nguyên Chất 200ml",
+    "manufactorer": "Việt Nam",
+    "price": 34000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f4/0c/70/58f21feebec4a59cb014e4cdc806af50.jpg.webp"
+  },
+  {
+    "product_id": "75",
+    "name": "Lốc 6 Sữa đậu nành Vinasoy nguyên chất 200ml",
+    "manufactorer": "Việt Nam",
+    "price": 29900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/19/1a/6e/16d597b3611cdab6db677c32ab3493a7.png.webp"
+  },
+  {
+    "product_id": "76",
+    "name": "SPDD Friso Gold 3 (1-2 tuổi) hộp thiếc 1.4kg",
+    "manufactorer": "Việt Nam",
+    "price": 685000,
+    "description": "Xem trên bao bì",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/89/9b/36/2abc0ac344eb530c36ea592e3c7e9005.png.webp"
+  },
+  {
+    "product_id": "77",
+    "name": "SPDD Nan 1 Optipro HMO (0-6M) HT 900g",
+    "manufactorer": "Việt Nam",
+    "price": 416500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e6/20/68/e6d5878f2fc584ea9038087b55d26d8a.png.webp"
+  },
+  {
+    "product_id": "78",
+    "name": "Nước Sting vàng lon 330ml - Lốc 6 lon",
+    "manufactorer": "Việt Nam",
+    "price": 60000,
+    "description": "Sản phẩm nước uống tăng lực thơm ngon của thương hiệu Sting được sản xuất từ các thành phần tự nhiên, mùi vị thơm ngon, sảng khoái. Sản phẩm giúp cơ thể bù đắp nước, bổ sung năng lượng, vitamin C và E, giúp xua tan cơn khát và cảm giác mệt mỏi. Cam kết chính hãng và an toà",
+    "quantity": 10000,
+    "category": [
+      {
+        "name": "Mật ong & Nước tăng lực",
+        "id": 108
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/b2/a0/e9/614ae0cdd167bdf63b98bc80644b5d3d.jpeg.webp"
+  },
+  {
+    "product_id": "79",
+    "name": "Lốc 6 Lon Nước Tăng Lực Rockstar (250ml/ lon)",
+    "manufactorer": "Mỹ",
+    "price": 55000,
+    "description": "Đón đầu xu hướng nước giải khát hiện nay, Suntory Pepsico tiếp tục giới thiệu tới người tiêu dùng một sản phẩm mới mang thương hiệu Rockstar. Rockstar được ra mắt từ năm 2001 ở Mỹ và hiện tại đang là nhãn hàng nước tăng lực đứng thứ 3 thế giới (dựa trên số liệu năm 2020).",
+    "quantity": 5000,
+    "category": [
+      {
+        "name": "Mật ong & Nước tăng lực",
+        "id": 108
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d1/a7/51/a8d35423e3759b6f221d94d33ad45a9b.png.webp"
+  },
+  {
+    "product_id": "80",
+    "name": "Gia vị nêm sẵn Bún bò Huế Aji Quick 59G",
+    "manufactorer": "Việt Nam",
+    "price": 6900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/88/a9/0f/c51d10d47e523f2024892a77126c67e7.png.webp"
+  },
+  {
+    "product_id": "81",
+    "name": "Gia vị nêm sẵn Phở bò Aji Quick gói 57g",
+    "manufactorer": "Việt Nam",
+    "price": 6900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/82/b7/2e/f8b6c6736e08f62a8ad5c1053b0efd3c.png.webp"
+  },
+  {
+    "product_id": "82",
+    "name": "Muối chấm Hảo Hảo tôm chua cay 120g",
+    "manufactorer": "Việt Nam",
+    "price": 13200,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Dầu ăn & Gia vị",
+        "id": 107
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/95/e5/cf/0c81d91d6034b287c9ed1123aca766d0.png.webp"
+  },
+  {
+    "product_id": "83",
+    "name": "Nước tương Nam Dương đậm đặc 500ml",
+    "manufactorer": "Việt Nam",
+    "price": 10600,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Tương",
+        "id": 111
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/39/0d/2a/d5a14fb75685e4790d698b7a2212d9cc.png.webp"
+  },
+  {
+    "product_id": "84",
+    "name": "Nước tương đậu nành Maggi đậm đặc 300ml",
+    "manufactorer": "Việt Nam",
+    "price": 14300,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Tương",
+        "id": 111
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/90/c3/27/b3692f1c9af92d122816b549e824289b.png.webp"
+  },
+  {
+    "product_id": "85",
+    "name": "Nước chấm Nam Ngư siêu tiết kiệm 4.8L",
+    "manufactorer": "Việt Nam",
+    "price": 58900,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Tương",
+        "id": 111
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/08/65/fc/bf485b76209d11a050e5ab63a143fec6.png.webp"
+  },
+  {
+    "product_id": "86",
+    "name": "Nước mắm Nam Ngư 3in1 900ml",
+    "manufactorer": "Việt Nam",
+    "price": 49800,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Tương",
+        "id": 111
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/be/55/39/b111d4f0b3cb4201fa09b013c931df28.png.webp"
+  },
+  {
+    "product_id": "87",
+    "name": "Lốc 6 chai sữa Fristi dâu 80ml",
+    "manufactorer": "Việt Nam",
+    "price": 23300,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%",
+    "quantity": 10000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/6a/3f/80/bab0198dd9031d4c53ecb80b37ba5e43.png.webp"
+  },
+  {
+    "product_id": "88",
+    "name": "Trà hồng sâm cô đặc Nokchawon 300g",
+    "manufactorer": "Việt Nam",
+    "price": 195000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Trà & cà phê",
+        "id": 112
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/06/f8/b9/1d15cf4916f788609f0957ba77ee585c.png.webp"
+  },
+  {
+    "product_id": "89",
+    "name": "Trà Sơn Mật Hồng Sâm Mộc Sắc",
+    "manufactorer": "Việt Nam",
+    "price": 150000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Trà & cà phê",
+        "id": 112
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a4/e4/39/550c79458e23e767cb6b8dc383eb97a7.jpg.webp"
+  },
+  {
+    "product_id": "90",
+    "name": "Cafe phố sữa đá 10*24g",
+    "manufactorer": "Việt Nam",
+    "price": 40200,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Trà & cà phê",
+        "id": 112
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/28/e5/32/8a6d0f3c9fa8d3963e70993671d2d79c.png.webp"
+  },
+  {
+    "product_id": "91",
+    "name": "Cà phê Phố sữa đá 30*24g",
+    "manufactorer": "Việt Nam",
+    "price": 118000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Trà & cà phê",
+        "id": 112
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/7d/35/87/af3359c04a45f23110e9d0aeb36c0a88.png.webp"
+  },
+  {
+    "product_id": "92",
+    "name": "NutiMilk Lốc 4 Hộp Sữa chua Nha Đam",
+    "manufactorer": "Việt Nam",
+    "price": 28000,
+    "description": "Bảo quản trong ngăn mát tủ lạnh",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1f/98/2f/56edeb2def25a502dd77ccf95615d7bf.png.webp"
+  },
+  {
+    "product_id": "93",
+    "name": "Sữa đặc ông thọ đỏ tuýp 165g",
+    "manufactorer": "Việt Nam",
+    "price": 21000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5b/2e/5e/cc97962b5c59394c2e56e5ea291efe41.png.webp"
+  },
+  {
+    "product_id": "94",
+    "name": "Cream đặc NGÔI SAO PHƯƠNG NAM xanh dương hộp thiếc 380g",
+    "manufactorer": "Việt Nam",
+    "price": 21000,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 5000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/28/42/da/337b0e17d5838f28aafbbcf46a6458f6.png.webp"
+  },
+  {
+    "product_id": "95",
+    "name": "Sữa đặc Cô Gái Hà Lan túi 560g",
+    "manufactorer": "Việt Nam",
+    "price": 33500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f5/6d/47/f73d94f908d271bb65722ea19071b50b.png.webp"
+  },
+  {
+    "product_id": "96",
+    "name": "Thực phẩm dinh dưỡng Ensure Gold Vigor Vani pet 237ml",
+    "manufactorer": "Việt Nam",
+    "price": 48500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 2000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/4e/02/a3/163e88186892c47bd01dbd441f553eb5.png.webp"
+  },
+  {
+    "product_id": "97",
+    "name": "Thực phẩm dinh dưỡng ENSURE Gold vani hộp thiết 850g",
+    "manufactorer": "Việt Nam",
+    "price": 853200,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 500,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/c2/1c/69/0cf35290b901494658714644be66ee91.png.webp"
+  },
+  {
+    "product_id": "98",
+    "name": "Cream đặc có đường Ngôi Sao Phương Nam xanh 1284g",
+    "manufactorer": "Việt Nam",
+    "price": 65500,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 1000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/77/58/77/2c440de194f64ba22626d41eb756387b.png.webp"
+  },
+  {
+    "product_id": "99",
+    "name": "Lốc 4 sữa TH True Milk không đường 180ml",
+    "manufactorer": "Việt Nam",
+    "price": 31400,
+    "description": "Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.",
+    "quantity": 3000,
+    "category": [
+      {
+        "name": "Sữa & Bơ",
+        "id": 105
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/cf/ad/a9/5cc26571b6c0a0d138dc3bd4bb70c0f2.png.webp"
+  },
+  {
+    "product_id": "100",
+    "name": "Combo 4 Vỉ Kẹo Cao Su Không Đường TRIDENT Vị Bạc Hà 4x26,6g",
+    "manufactorer": "Việt Nam",
+    "price": 75000,
+    "description": "TRIDENT là thương hiệu lớn của Mỹ, đến từ Công ty Mondelez Kinh Đô, từ lâu đã là sản phẩm kẹo cao su không thể thiếu của những người sành ăn. Kẹo Cao Su TRIDENT Vị Bạc Hà mang đến cho bạn hơi thở thơm mát cùng một tinh thần sảng khoái.",
+    "quantity": 6000,
+    "category": [
+      {
+        "name": "Kẹo",
+        "id": 109
+      }
+    ],
+    "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/c3/12/da/065c11417819033b0c1971a2c6348b6d.jpg.webp"
+  }
+]

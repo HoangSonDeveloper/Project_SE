@@ -22,8 +22,8 @@ const Categories = ({ categories, history }) => {
     <div className="categories-container">
       <Slider {...settings}>
         {categories.map((cate) => (
-          <div key={cate._id}>
-            <Link to={`/Categories/${cate._id}/Product`}>
+          <div key={cate.category_id}>
+            <Link to={`/Categories/${cate.category_id}/Product`}>
               <CategoryCard
                 onClick={handleCardClicked}
                 title={cate.name}

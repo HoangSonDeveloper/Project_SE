@@ -5,7 +5,7 @@ class ShoppingCart extends Component {
     return (
       <div className="shopping-cart">
         <i className="fa fa-shopping-cart me-2" />
-        <span className="shopping-cart-quantity">{this.props.quantity}</span>
+        <span className="shopping-cart-quantity">0</span>
         <a href="#">Giỏ hàng</a>
       </div>
     );
