@@ -1,62 +1,33 @@
-import React, { Component } from "react";
+import React, { useState } from "react";
 import Categories from "./Categories";
 import Heroes from "./Heroes";
 import Product from "./Product";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import "./Main.scss";
-import axios from "axios";
+// import axios from "axios";
+// import { Link, Route, Routes } from "react-router-dom";
+// import ProductDetail from "../ProductDetailScreen";
 
-class Main extends Component {
-  state = {
-    categories: [],
-    products: [],
-    pagination: 1,
+const Main = ({ categories, products, advertisements }) => {
+  const [pagination, setPagination] = useState(1);
+  const handleMoreButtonClick = () => {
+    setPagination(pagination + 1);
   };
+  return (
+    <div>
+      <NavBar />
+      <Heroes advertisements={advertisements} />
+      <Categories categories={categories} />
 
-  async getCategories() {
-    try {
-      const { data } = await axios.get("https://localhost:3000/category");
-      this.setState({ categories: data });
-    } catch (error) {
-      console.log(error);
-    }
-  }
-  async getProducts() {
-    try {
-      const { data } = await axios.get("https://localhost:3000/products");
-      this.setState({ products: data });
-    } catch (error) {
-      console.log(error);
-    }
-  }
-  componentDidMount() {
-    this.getCategories();
-    this.getProducts();
-  }
-
-  componentWillUnmount() {}
-
-  handleMoreButtonClick = () => {
-    const count = this.state.pagination;
-    this.setState({ pagination: count + 1 });
-  };
-  render() {
-    const { categories, products, pagination } = this.state;
-    return (
-      <div>
-        <NavBar />
-        <Heroes />
-        <Categories categories={categories} />
-        <Product
-          products={products}
-          pagination={pagination}
-          onMoreButtonClick={this.handleMoreButtonClick}
-        />
-        <Footer />
-      </div>
-    );
-  }
-}
+      <Product
+        products={products}
+        pagination={pagination}
+        onMoreButtonClick={handleMoreButtonClick}
+      />
+      <Footer />
+    </div>
+  );
+};
 
 export default Main;

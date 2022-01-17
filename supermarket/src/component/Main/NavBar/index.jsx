@@ -13,9 +13,9 @@ class NavBar extends Component {
       <div className="nav-bar-wrapper">
         <nav className="nav-bar">
           <div className="nav-bar-brand">
-            <a href="#">
+            <Link to="/">
               <img className="nav-bar-logo" src={logo} alt="Logo-mall" />
-            </a>
+            </Link>
           </div>
           <SearchBar />
           <div className="nav-bar-side">

@@ -1,6 +1,7 @@
 import React, { Component, useState } from "react";
 import ProductCard from "./ProductCard";
 import { filterProduct } from "../../../services/filterProduct";
+import { Link } from "react-router-dom";
 
 const Product = ({ products, pagination, onMoreButtonClick }) => {
   const filteredProducts = filterProduct(products, pagination);
@@ -16,7 +17,9 @@ const Product = ({ products, pagination, onMoreButtonClick }) => {
       </div>
       <div className="product-container grid-6">
         {filteredProducts.map((p) => (
-          <ProductCard key={p._id} product={p} />
+          <Link key={p.product_id - 1} to={`product/${p.product_id - 1}`}>
+            <ProductCard product={p} />
+          </Link>
         ))}
       </div>
 
